@@ -1,0 +1,9 @@
+,id,kingdom,phylum,class,order,family,genus,species,filename
+0,699721,1,1,1,1,1,1,1,/mnt/research/xprize23/inat-plant-train-infer/example_data/original699721_original.jpg
+1,727081,1,1,1,1,1,173,291,/mnt/research/xprize23/inat-plant-train-infer/example_data/original727081_original.jpg
+2,699741,1,1,1,1,1,7,7,/mnt/research/xprize23/inat-plant-train-infer/example_data/original699741_original.jpg
+3,700441,1,1,1,1,1,45,48,/mnt/research/xprize23/inat-plant-train-infer/example_data/original700441_original.jpg
+4,699725,1,1,1,2,2,2,2,/mnt/research/xprize23/inat-plant-train-infer/example_data/original699725_original.jpg
+5,699744,1,1,1,2,2,8,8,/mnt/research/xprize23/inat-plant-train-infer/example_data/original699744_original.jpg
+6,699745,1,1,1,2,2,8,8,/mnt/research/xprize23/inat-plant-train-infer/example_data/original699745_original.jpg
+7,699746,1,1,1,2,2,8,8,/mnt/research/xprize23/inat-plant-train-infer/example_data/original699746_original.jpg

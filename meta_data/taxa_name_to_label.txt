@@ -1,0 +1,2915 @@
+taxon_level	taxon_name	taxon_label
+genus	Scaevola	248
+genus	Prunus	620
+genus	Couroupita	832
+genus	Heliotropium	314
+genus	Datura	407
+genus	Spathodea	198
+genus	Leucaena	171
+genus	Tillandsia	906
+genus	Asclepias	327
+genus	Cardamine	820
+genus	Heuchera	862
+genus	Typha	271
+genus	Chrysophyllum	323
+genus	Zea	741
+genus	Antirrhinum	868
+genus	Iris	184
+genus	Callicarpa	443
+genus	Anthurium	870
+genus	Mangifera	295
+genus	Geranium	867
+genus	Ziziphus	391
+genus	Acacia	52
+genus	Hibiscus	102
+genus	Nephrolepis	219
+genus	Blechnum	591
+genus	Capsicum	209
+genus	Oxalis	165
+genus	Juniperus	448
+genus	Allium	483
+genus	Impatiens	643
+genus	Tradescantia	20
+genus	Tecoma	528
+genus	Lobelia	284
+genus	Mimosa	181
+genus	Mesembryanthemum	603
+genus	Sagittaria	695
+genus	Rubus	513
+genus	Adiantum	490
+genus	Antigonon	512
+genus	Miconia	197
+genus	Calliandra	318
+genus	Cocos	266
+genus	Plumeria	580
+genus	Nerium	33
+genus	Melia	468
+genus	Agapanthus	866
+genus	Halodule	852
+genus	Lactuca	32
+genus	Cleome	132
+genus	Mirabilis	27
+genus	Physalis	306
+genus	Agave	873
+genus	Ilex	766
+genus	Selaginella	116
+genus	Pontederia	162
+genus	Enhalus	454
+genus	Olea	711
+genus	Aristolochia	371
+genus	Eleocharis	465
+genus	Hydrocotyle	137
+genus	Araucaria	871
+genus	Cucumis	144
+genus	Psychotria	813
+genus	Ipomoea	42
+genus	Ophioglossum	892
+genus	Erigeron	521
+genus	Thalassia	502
+genus	Sida	359
+genus	Sporobolus	709
+genus	Punica	352
+genus	Hyptis	654
+genus	Axonopus	459
+genus	Silene	878
+genus	Morus	82
+genus	Utricularia	690
+genus	Rhynchospora	884
+genus	Pteris	220
+genus	Spirodela	819
+genus	Artemisia	305
+genus	Abutilon	134
+genus	Lemna	30
+genus	Portulaca	28
+genus	Lonicera	74
+genus	Caulerpa	457
+genus	Nepenthes	456
+genus	Hypolytrum	786
+genus	Passiflora	157
+genus	Eryngium	15
+genus	Viola	877
+genus	Pittosporum	658
+genus	Fatoua	570
+genus	Flacourtia	106
+genus	Commelina	145
+genus	Helianthus	38
+genus	Lindera	697
+genus	Senna	37
+genus	Bougainvillea	931
+genus	Ricinus	356
+genus	Amaranthus	566
+genus	Lantana	180
+genus	Potentilla	41
+genus	Cyperus	54
+genus	Justicia	126
+genus	Richardia	519
+genus	Sorghum	302
+genus	Crassula	876
+genus	Dianella	315
+genus	Dicranopteris	138
+genus	Lobularia	865
+genus	Solanum	13
+genus	Aloysia	321
+genus	Lithocarpus	702
+genus	Digitaria	710
+genus	Tabebuia	808
+genus	Echinochloa	782
+genus	Salix	733
+genus	Merremia	636
+genus	Colubrina	647
+genus	Kalanchoe	94
+genus	Leonurus	408
+genus	Viscum	909
+genus	Dypsis	812
+genus	Trimezia	224
+genus	Hevea	183
+genus	Bidens	499
+genus	Eupatorium	283
+genus	Phyla	338
+genus	Cheilanthes	818
+genus	Croton	682
+genus	Foeniculum	879
+genus	Gnetum	307
+genus	Aleurites	55
+genus	Hedychium	740
+genus	Nymphaea	393
+genus	Ulva	674
+genus	Chamaecrista	754
+genus	Cuscuta	564
+genus	Ludwigia	334
+genus	Euphorbia	149
+genus	Cordyline	146
+genus	Ficus	88
+genus	Leptospermum	669
+genus	Cymbopogon	565
+genus	Halophila	451
+genus	Eucalyptus	523
+genus	Eragrostis	389
+genus	Stenotaphrum	616
+genus	Cabomba	844
+genus	Lindernia	550
+genus	Muehlenbeckia	115
+genus	Bacopa	504
+genus	Asplenium	335
+genus	Boerhavia	345
+genus	Melinis	515
+genus	Pistia	432
+genus	Cestrum	29
+genus	Jacaranda	563
+genus	Sophora	337
+genus	Eriobotrya	847
+genus	Senegalia	896
+genus	Triadica	204
+genus	Artocarpus	373
+genus	Syzygium	23
+genus	Dactyloctenium	12
+genus	Porophyllum	698
+genus	Plumbago	14
+genus	Sesbania	46
+genus	Eclipta	5
+genus	Cenchrus	245
+genus	Cissus	70
+genus	Phoenix	923
+genus	Acalypha	213
+genus	Cinnamomum	190
+genus	Acanthus	354
+genus	Tagetes	39
+genus	Imperata	360
+genus	Fimbristylis	4
+genus	Echinodorus	555
+genus	Pancratium	436
+genus	Eleusine	662
+genus	Saccharum	278
+genus	Hydrilla	473
+genus	Salvinia	275
+genus	Delosperma	875
+genus	Pandanus	159
+genus	Melaleuca	208
+genus	Aloe	742
+genus	Gossypium	288
+genus	Rourea	641
+genus	Desmodium	848
+genus	Magnolia	167
+genus	Manilkara	107
+genus	Parkia	601
+genus	Heliconia	440
+genus	Striga	779
+genus	Barleria	214
+genus	Allophylus	452
+genus	Pandorea	397
+genus	Tephrosia	661
+genus	Camellia	96
+genus	Clitoria	173
+genus	Indigofera	659
+genus	Lygodium	31
+genus	Spigelia	539
+genus	Palhinhaea	205
+genus	Wikstroemia	621
+genus	Diospyros	57
+genus	Erythrina	309
+genus	Lecythis	95
+genus	Andira	496
+genus	Stylosanthes	514
+genus	Kigelia	573
+genus	Calophyllum	175
+genus	Spondias	108
+genus	Nypa	276
+genus	Plinia	929
+genus	Licania	680
+genus	Eugenia	326
+genus	Cecropia	773
+genus	Stachytarpheta	252
+genus	Ruellia	22
+genus	Epiphyllum	746
+genus	Pouteria	228
+genus	Podocarpus	130
+genus	Strychnos	683
+genus	Ximenia	653
+genus	Evolvulus	136
+genus	Melastoma	236
+genus	Canarium	270
+genus	Jacquemontia	915
+genus	Dioscorea	286
+genus	Ceratonia	450
+genus	Areca	719
+genus	Mikania	289
+genus	Tacca	69
+genus	Nelumbo	26
+genus	Jasminum	78
+genus	Diplazium	839
+genus	Combretum	216
+genus	Chlorophytum	738
+genus	Spathoglottis	394
+genus	Piper	223
+genus	Delonix	7
+genus	Chloris	151
+genus	Cassia	97
+genus	Cosmos	237
+genus	Burmannia	789
+genus	Vitis	845
+genus	Conocarpus	660
+genus	Paspalum	646
+genus	Dendrobium	368
+genus	Durio	169
+genus	Ravenala	863
+genus	Bambusa	556
+genus	Persicaria	40
+genus	Tamarindus	370
+genus	Waltheria	379
+genus	Pityrogramma	668
+genus	Microsorum	158
+genus	Pluchea	650
+genus	Allamanda	100
+genus	Sansevieria	882
+genus	Pentas	234
+genus	Casuarina	191
+genus	Annona	358
+genus	Bauhinia	177
+genus	Theobroma	56
+genus	Vanilla	649
+genus	Coffea	761
+genus	Carica	479
+genus	Leersia	781
+genus	Cynanchum	396
+genus	Cardiospermum	378
+genus	Brugmansia	724
+genus	Asparagus	232
+genus	Buddleja	93
+genus	Alocasia	431
+genus	Polygala	544
+genus	Epipremnum	160
+genus	Alternanthera	340
+genus	Trichomanes	769
+genus	Thespesia	524
+genus	Blumea	705
+genus	Tectona	727
+genus	Shorea	691
+genus	Terminalia	349
+genus	Smilax	172
+genus	Oryza	355
+genus	Pterocarpus	484
+genus	Musa	260
+genus	Crinum	83
+genus	Avicennia	522
+genus	Bignonia	101
+genus	Ocimum	231
+genus	Pilea	218
+genus	Calotropis	313
+genus	Trichosanthes	329
+genus	Psidium	350
+genus	Momordica	25
+genus	Ammannia	610
+genus	Morella	905
+genus	Grewia	319
+genus	Ceratophyllum	439
+genus	Cordia	249
+genus	Egeria	899
+genus	Arachis	45
+genus	Pueraria	907
+genus	Eriocaulon	500
+genus	Clerodendrum	80
+genus	Philodendron	410
+genus	Medinilla	578
+genus	Erythroxylum	759
+genus	Aeschynomene	706
+genus	Ceiba	554
+genus	Phyllanthus	58
+genus	Nymphoides	387
+genus	Lagerstroemia	202
+genus	Catharanthus	24
+genus	Calathea	222
+genus	Rhizophora	460
+genus	Sesuvium	455
+genus	Dalbergia	182
+genus	Trema	546
+genus	Jacobaea	869
+genus	Amorphophallus	927
+genus	Laportea	676
+genus	Elephantopus	380
+genus	Tulbaghia	201
+genus	Arundina	282
+genus	Sterculia	296
+genus	Lespedeza	17
+genus	Sonerila	858
+genus	Lindsaea	592
+genus	Perilla	726
+genus	Cassytha	374
+genus	Jatropha	285
+genus	Curcuma	442
+genus	Ochna	549
+genus	Sindora	602
+genus	Phyllodium	430
+genus	Strombosia	634
+genus	Tabernaemontana	104
+genus	Baphia	170
+genus	Porterandia	627
+genus	Millettia	409
+genus	Galphimia	163
+genus	Synsepalum	735
+genus	Pseudobombax	880
+genus	Anisophyllea	344
+genus	Avrainvillea	785
+genus	Kaempferia	339
+genus	Costus	277
+genus	Samanea	498
+genus	Polyscias	242
+genus	Spermacoce	376
+genus	Dendrolobium	694
+genus	Wodyetia	778
+genus	Chassalia	385
+genus	Cynometra	59
+genus	Rinorea	748
+genus	Cola	604
+genus	Dicliptera	287
+genus	Alysicarpus	535
+genus	Archidendron	477
+genus	Canavalia	325
+genus	Dipteris	384
+genus	Clausena	505
+genus	Christia	893
+genus	Derris	308
+genus	Ixora	250
+genus	Hymenaea	348
+genus	Ormosia	411
+genus	Ceratopteris	780
+genus	Uraria	428
+genus	Xylopia	714
+genus	Halymenia	493
+genus	Tristaniopsis	597
+genus	Livistona	492
+genus	Angelonia	881
+genus	Adenia	598
+genus	Rhodomyrtus	207
+genus	Bridelia	311
+genus	Sticherus	225
+genus	Cajanus	605
+genus	Malpighia	61
+genus	Canthium	689
+genus	Memecylon	203
+genus	Rivina	526
+genus	Elaeis	258
+genus	Dorstenia	783
+genus	Cyanthillium	421
+genus	Macaranga	398
+genus	Oldenlandia	363
+genus	Tithonia	423
+genus	Mecardonia	787
+genus	Peltophorum	353
+genus	Lasianthus	897
+genus	Mucuna	509
+genus	Cochlospermum	71
+genus	Zinnia	826
+genus	Blighia	540
+genus	Acrostichum	290
+genus	Carissa	168
+genus	Alangium	920
+genus	Syngramma	799
+genus	Stenochlaena	343
+genus	Isachne	912
+genus	Libidibia	518
+genus	Flemingia	62
+genus	Agelaea	471
+genus	Pyrrosia	166
+genus	Taenitis	585
+genus	Scleria	533
+genus	Ptychosperma	264
+genus	Adinandra	50
+genus	Stachyphrynium	925
+genus	Sacciolepis	828
+genus	Pomatocalpa	854
+genus	Sclerochiton	562
+genus	Sphaerostephanos	914
+genus	Pleocnemia	608
+genus	Cyclosorus	629
+genus	Maniltoa	1
+genus	Cryptocoryne	542
+genus	Talinum	362
+genus	Whitfieldia	85
+genus	Syngonium	67
+genus	Phanera	357
+genus	Typhonium	534
+genus	Scindapsus	341
+genus	Bromheadia	461
+genus	Uvaria	445
+genus	Adenanthera	179
+genus	Mapania	886
+genus	Plectocomia	414
+genus	Tarenna	551
+genus	Drynaria	367
+genus	Heritiera	427
+genus	Dieffenbachia	301
+genus	Phalaenopsis	511
+genus	Crescentia	823
+genus	Tectaria	388
+genus	Urochloa	707
+genus	Coix	109
+genus	Actinostachys	917
+genus	Eulophia	419
+genus	Argyreia	312
+genus	Ficinia	732
+genus	Andrographis	156
+genus	Chrysopogon	712
+genus	Caladium	589
+genus	Rhaphidophora	758
+genus	Aglaia	117
+genus	Hypoestes	736
+genus	Aglaonema	560
+genus	Alsophila	489
+genus	Macroptilium	372
+genus	Crassocephalum	375
+genus	Gastrodia	885
+genus	Gahnia	922
+genus	Megaskepasma	816
+genus	Gloriosa	221
+genus	Christella	488
+genus	Lablab	567
+genus	Cyrtostachys	728
+genus	Caryota	280
+genus	Averrhoa	227
+genus	Canna	255
+genus	Gardenia	76
+genus	Gomphrena	141
+genus	Bixa	114
+genus	Hoya	36
+genus	Murdannia	613
+genus	Vitex	192
+genus	Paederia	247
+genus	Morinda	226
+genus	Callisia	725
+genus	Pachypodium	874
+genus	Coelogyne	474
+genus	Daemonorops	413
+genus	Urena	402
+genus	Myristica	369
+genus	Dracaena	187
+genus	Thunbergia	19
+genus	Melothria	35
+genus	Platycladus	833
+genus	Nenga	418
+genus	Abrus	582
+genus	Monstera	684
+genus	Alpinia	139
+genus	Fatsia	864
+genus	Monodora	928
+genus	Hymenocallis	274
+genus	Neptunia	268
+genus	Celosia	43
+genus	Youngia	34
+genus	Centrosema	256
+genus	Coccoloba	273
+genus	Mazus	657
+genus	Crotalaria	253
+genus	Anacardium	464
+genus	Hamelia	269
+genus	Khaya	406
+genus	Emilia	254
+genus	Maranta	426
+genus	Pithecellobium	243
+genus	Solandra	272
+genus	Malvaviscus	322
+genus	Ananas	729
+genus	Vigna	317
+genus	Acmella	617
+genus	Pisonia	336
+genus	Etlingera	462
+genus	Bulbophyllum	475
+genus	Zingiber	548
+genus	Ageratum	68
+genus	Elaeocarpus	561
+genus	Licuala	127
+genus	Russelia	517
+genus	Freycinetia	853
+genus	Leucobryum	749
+genus	Gmelina	60
+genus	Fagraea	147
+genus	Broussonetia	665
+genus	Garcinia	199
+genus	Colocasia	281
+genus	Platycerium	463
+genus	Peperomia	303
+genus	Entada	466
+genus	Melicope	92
+genus	Brachychiton	73
+genus	Sesamum	361
+genus	Thalia	486
+genus	Cymbidium	395
+genus	Codiaeum	737
+genus	Zephyranthes	246
+genus	Angiopteris	600
+genus	Begonia	447
+genus	Murraya	77
+genus	Lasia	611
+genus	Phaleria	366
+genus	Moringa	148
+genus	Pachira	753
+genus	Cayratia	298
+genus	Ixeris	135
+genus	Dipterocarpus	386
+genus	Psilotum	537
+genus	Clusia	904
+genus	Pseuderanthemum	10
+genus	Centella	304
+genus	Turnera	150
+genus	Sphaeropteris	800
+genus	Litsea	584
+genus	Muntingia	239
+genus	Breynia	113
+genus	Odontonema	768
+genus	Centratherum	320
+genus	Swietenia	656
+genus	Houttuynia	743
+genus	Stictocardia	446
+genus	Abelmoschus	140
+genus	Thuarea	838
+genus	Claoxylon	195
+genus	Luffa	143
+genus	Antidesma	401
+genus	Torenia	47
+genus	Pachystachys	86
+genus	Posoqueria	763
+genus	Sanchezia	836
+genus	Eurya	891
+genus	Cananga	390
+genus	Elytraria	801
+genus	Selenicereus	614
+genus	Mussaenda	155
+genus	Hyophila	805
+genus	Citharexylum	154
+genus	Glycosmis	671
+genus	Tridax	267
+genus	Graptophyllum	332
+genus	Manihot	110
+genus	Mayaca	346
+genus	Abildgaardia	908
+genus	Lumnitzera	263
+genus	Falcataria	635
+genus	Petrea	651
+genus	Zoysia	829
+genus	Pipturus	383
+genus	Synedrella	244
+genus	Limnophila	530
+genus	Premna	206
+genus	Asystasia	11
+genus	Pouzolzia	632
+genus	Hygrophila	594
+genus	Hippobroma	153
+genus	Ardisia	84
+genus	Corchorus	793
+genus	Gynura	133
+genus	Melochia	590
+genus	Hura	587
+genus	Coccinia	251
+genus	Holmskioldia	119
+genus	Podranea	342
+genus	Bruguiera	21
+genus	Ischaemum	3
+genus	Streblus	626
+genus	Mitracarpus	791
+genus	Embelia	771
+genus	Hemigraphis	331
+genus	Basella	568
+genus	Guettarda	624
+genus	Alstonia	2
+genus	Ehretia	299
+genus	Flueggea	911
+genus	Duranta	9
+genus	Mallotus	51
+genus	Lagenaria	693
+genus	Tetrastigma	679
+genus	Cuphea	235
+genus	Chromolaena	429
+genus	Acanthophora	835
+genus	Crossandra	129
+genus	Spathiphyllum	507
+genus	Anaxagorea	675
+genus	Kayea	916
+genus	Maclurodendron	889
+genus	Phaeanthus	715
+genus	Borassus	259
+genus	Drepananthus	687
+genus	Pemphis	588
+genus	Nauclea	449
+genus	Rothmannia	645
+genus	Intsia	53
+genus	Osmoxylon	435
+genus	Micrococca	837
+genus	Ravenia	112
+genus	Willughbeia	859
+genus	Gonatopus	849
+genus	Dasymaschalon	910
+genus	Barclaya	417
+genus	Spyridia	806
+genus	Chukrasia	441
+genus	Ixonanthes	817
+genus	Amydrium	850
+genus	Campnosperma	510
+genus	Urophyllum	685
+genus	Hydrocera	843
+genus	Sandoricum	188
+genus	Pentaspadon	775
+genus	Santiria	717
+genus	Aphanamixis	543
+genus	Agrostistachys	347
+genus	Aphelandra	425
+genus	Pellacalyx	673
+genus	Xylocarpus	525
+genus	Baccaurea	520
+genus	Rhopaloblaste	857
+genus	Knema	596
+genus	Cratoxylum	470
+genus	Oncosperma	416
+genus	Radermachera	494
+genus	Leea	178
+genus	Dolichandrone	230
+genus	Quassia	63
+genus	Adonidia	688
+genus	Oncoba	485
+genus	Polyalthia	716
+genus	Ceriops	575
+genus	Dysoxylum	644
+genus	Hopea	434
+genus	Carallia	297
+genus	Rhinacanthus	142
+genus	Pogonatherum	572
+genus	Hanguana	503
+genus	Cleistanthus	559
+genus	Dyera	196
+genus	Gaertnera	642
+genus	Turpinia	804
+genus	Carphalea	538
+genus	Mesua	229
+genus	Bhesa	638
+genus	Mitrephora	734
+genus	Diplacrum	894
+genus	Nothaphoebe	722
+genus	Wrightia	79
+genus	Aeschynanthus	351
+genus	Ormocarpum	913
+genus	Scyphiphora	622
+genus	Xanthostemon	212
+genus	Marantochloa	764
+genus	Hernandia	623
+genus	Horsfieldia	831
+genus	Excoecaria	438
+genus	Fissistigma	681
+genus	Loropetalum	731
+genus	Psydrax	901
+genus	Schoenoplectiella	124
+genus	Kopsia	105
+genus	Artabotrys	480
+genus	Buchanania	637
+genus	Arachnothryx	217
+genus	Dentella	501
+genus	Gustavia	765
+genus	Cyathula	802
+genus	Anodendron	699
+genus	Saraca	6
+genus	Arenga	365
+genus	Sonneratia	527
+genus	Dillenia	176
+genus	Pterospermum	821
+genus	Timonius	481
+genus	Suregada	293
+genus	Nephelium	189
+genus	Kleinia	745
+genus	Rapanea	663
+genus	Bunchosia	330
+genus	Uncaria	467
+genus	Pseuduvaria	762
+genus	Vincetoxicum	422
+genus	Brunfelsia	164
+genus	Mimusops	404
+genus	Neolitsea	424
+genus	Guioa	599
+genus	Xanthophyllum	796
+genus	Orthosiphon	265
+genus	Aquilaria	123
+genus	Barringtonia	98
+genus	Castanopsis	400
+genus	Glochidion	547
+genus	Dimocarpus	720
+genus	Cyrtosperma	125
+genus	Strobilanthes	87
+genus	Sphagneticola	262
+genus	Parsonsia	612
+genus	Benincasa	666
+genus	Pleiostachya	444
+genus	Lawsonia	903
+genus	Struchium	678
+genus	Ampelocissus	640
+genus	Lepidagathis	667
+genus	Microstachys	794
+genus	Cyrtococcum	677
+genus	Xiphidium	883
+genus	Geophila	704
+genus	Plukenetia	811
+genus	Mansoa	44
+genus	Calopogonium	756
+genus	Davallia	495
+genus	Limnocharis	403
+genus	Molineria	532
+genus	Varronia	364
+genus	Tetracera	174
+genus	Cascabela	64
+genus	Episcia	895
+genus	Rhapis	279
+genus	Tecomaria	16
+genus	Scoparia	708
+genus	Azadirachta	721
+genus	Grammatophyllum	291
+genus	Lansium	392
+genus	Mitrasacme	790
+genus	Tristellateia	161
+genus	Praxelis	18
+genus	Seemannia	655
+genus	Cerbera	8
+genus	Eleutheranthera	405
+genus	Neolamarckia	918
+genus	Aralidium	99
+genus	Lepironia	240
+genus	Eurycoma	122
+genus	Xenostegia	377
+genus	Dischidia	300
+genus	Friesodielsia	686
+genus	Afgekia	333
+genus	Nelsonia	472
+genus	Phytocrene	628
+genus	Filicium	210
+genus	Cyclea	696
+genus	Congea	453
+genus	Amherstia	803
+genus	Fibraurea	49
+genus	Ruspolia	890
+genus	Clinacanthus	830
+genus	Beaumontia	625
+genus	Bouea	652
+genus	Dictyoneura	66
+genus	Pometia	186
+genus	Neesia	65
+genus	Tapeinochilos	200
+genus	Goniophlebium	619
+genus	Endospermum	887
+genus	Lepisanthes	257
+genus	Gymnanthemum	767
+genus	Duabanga	553
+genus	Centotheca	571
+genus	Haplopteris	924
+genus	Tecomanthe	120
+genus	Pleiocarpa	118
+genus	Macrosolen	633
+genus	Anisomeles	324
+genus	Johannesteijsmannia	437
+genus	Aidia	508
+genus	Ploiarium	797
+genus	Nyctanthes	131
+genus	Pseudomussaenda	241
+genus	Lophanthera	211
+genus	Abroma	81
+genus	Strophanthus	91
+genus	Scurrula	760
+genus	Leptopetalum	757
+genus	Psophocarpus	316
+genus	Scorodocarpus	919
+genus	Iguanura	128
+genus	Serissa	121
+genus	Rotheca	75
+genus	Gymnostoma	152
+genus	Tinospora	103
+genus	Kleinhovia	328
+genus	Thottea	579
+genus	Donax	506
+genus	Erycibe	469
+genus	Champereia	692
+genus	Ventilago	703
+genus	Gynochthodes	420
+genus	Myrialepis	433
+genus	Saribus	718
+genus	Korthalsia	415
+genus	Rhodamnia	618
+genus	Gymnanthera	784
+genus	Eleiodoxa	412
+genus	Commersonia	399
+genus	Flagellaria	595
+genus	Planchonella	670
+genus	Dendrophthoe	552
+genus	Linostoma	751
+genus	Schumannianthus	842
+genus	Kunstleria	834
+genus	Aporosa	630
+genus	Mussaendopsis	774
+genus	Limacia	639
+genus	Erythropalum	700
+genus	Iodes	713
+genus	Leuconotis	701
+genus	Telosma	822
+genus	Coscinium	777
+genus	Elateriospermum	491
+genus	Galearia	809
+genus	Scaphochlamys	855
+genus	Labisia	569
+genus	Salomonia	792
+genus	Tinomiscium	814
+genus	Mitrella	815
+genus	Pentaphragma	577
+genus	Taxillus	776
+genus	Monocostus	482
+genus	Callostylis	583
+genus	Acriopsis	752
+genus	Hornstedtia	860
+genus	Lophatherum	902
+genus	Oxyceros	458
+genus	Parishia	861
+genus	Robiquetia	770
+genus	Dissochaeta	798
+genus	Chonemorpha	739
+genus	Poikilospermum	672
+genus	Pternandra	476
+genus	Gironniera	516
+genus	Gynotroches	851
+genus	Philydrum	840
+genus	Aspidopterys	478
+genus	Karomia	772
+genus	Amischotolype	898
+genus	Ophiorrhiza	755
+genus	Cnestis	606
+genus	Vallaris	744
+genus	Procris	664
+genus	Volkameria	238
+genus	Dolichandra	747
+genus	Mezoneuron	750
+genus	Heterotis	215
+genus	Wollastonia	261
+genus	Callianthe	294
+genus	Plerandra	841
+genus	Cladophoropsis	926
+genus	Adina	586
+genus	Norrisia	930
+genus	Boschia	856
+genus	Curio	872
+genus	Boergesenia	807
+genus	Pteleocarpa	581
+genus	Malaisia	788
+genus	Benstonea	846
+genus	Hellenia	233
+genus	Exallage	536
+genus	Guilandina	810
+genus	Monophyllaea	631
+genus	Distimake	723
+genus	Causonis	497
+genus	Scleromitrion	730
+genus	Pleroma	541
+genus	Indorouchera	825
+genus	Goeppertia	89
+genus	Amblovenatum	593
+genus	Monoon	193
+genus	Eriocapitella	574
+genus	Scaphium	576
+genus	Bonnaya	529
+genus	Leuenbergeria	558
+genus	Cyrtophyllum	827
+genus	Utania	615
+genus	Decalobanthus	545
+genus	Tarlmounia	557
+genus	Pigea	607
+genus	Thaumatophyllum	824
+genus	Suessenguthia	310
+genus	Duperrea	48
+genus	Grona	381
+genus	Vandellia	531
+genus	Whitfordiodendron	72
+genus	Singaporandia	921
+genus	Musella	90
+genus	Coleus	111
+genus	Synostemon	795
+genus	Adinobotrys	194
+genus	Ouret	900
+genus	Neustanthus	487
+genus	Caesalpinia	382
+genus	Wisteriopsis	648
+genus	Heptapleurum	292
+genus	Grypothrix	609
+genus	Canthiumera	888
+genus	Matourea	185
+family	Blechnaceae	106
+family	Pteridaceae	91
+family	Rhamnaceae	118
+family	Sapotaceae	54
+family	Cactaceae	147
+family	Rubiaceae	26
+family	Cucurbitaceae	15
+family	Lauraceae	81
+family	Onagraceae	104
+family	Cupressaceae	125
+family	Fagaceae	120
+family	Iridaceae	79
+family	Campanulaceae	70
+family	Clusiaceae	84
+family	Fabaceae	1
+family	Asparagaceae	65
+family	Geraniaceae	195
+family	Arecaceae	59
+family	Typhaceae	99
+family	Caryophyllaceae	197
+family	Polygonaceae	21
+family	Cyperaceae	4
+family	Oxalidaceae	74
+family	Solanaceae	8
+family	Aizoaceae	127
+family	Portulacaceae	18
+family	Orchidaceae	101
+family	Bromeliaceae	169
+family	Cornaceae	203
+family	Primulaceae	45
+family	Hamamelidaceae	170
+family	Salicaceae	53
+family	Scrophulariaceae	48
+family	Lycopodiaceae	87
+family	Malvaceae	30
+family	Araucariaceae	196
+family	Lamiaceae	33
+family	Myricaceae	200
+family	Anacardiaceae	55
+family	Balsaminaceae	162
+family	Commelinaceae	12
+family	Araceae	19
+family	Strelitziaceae	194
+family	Verbenaceae	6
+family	Bignoniaceae	11
+family	Alismataceae	121
+family	Brassicaceae	186
+family	Ranunculaceae	150
+family	Apocynaceae	2
+family	Dryopteridaceae	157
+family	Rosaceae	22
+family	Apiaceae	10
+family	Lecythidaceae	50
+family	Saxifragaceae	193
+family	Poaceae	3
+family	Caprifoliaceae	40
+family	Melastomataceae	83
+family	Boraginaceae	96
+family	Orobanchaceae	176
+family	Oleaceae	42
+family	Asteraceae	5
+family	Zingiberaceae	64
+family	Phyllanthaceae	32
+family	Ophioglossaceae	199
+family	Rhodomelaceae	188
+family	Thymelaeaceae	58
+family	Ulvaceae	165
+family	Amaranthaceae	24
+family	Nyctaginaceae	17
+family	Aristolochiaceae	113
+family	Siphonocladaceae	183
+family	Selaginellaceae	56
+family	Aquifoliaceae	174
+family	Lythraceae	86
+family	Nymphaeaceae	119
+family	Cannabaceae	139
+family	Sapindaceae	36
+family	Gleicheniaceae	63
+family	Passifloraceae	68
+family	Amaryllidaceae	44
+family	Myrtaceae	14
+family	Lentibulariaceae	167
+family	Violaceae	156
+family	Araliaceae	62
+family	Thelypteridaceae	133
+family	Cymodoceaceae	192
+family	Acanthaceae	7
+family	Rutaceae	41
+family	Moraceae	43
+family	Simaroubaceae	35
+family	Crassulaceae	49
+family	Cannaceae	97
+family	Pontederiaceae	73
+family	Caulerpaceae	129
+family	Polypodiaceae	71
+family	Pittosporaceae	164
+family	Meliaceae	57
+family	Gentianaceae	66
+family	Nepenthaceae	128
+family	Gnetaceae	102
+family	Linaceae	187
+family	Vitaceae	38
+family	Loranthaceae	146
+family	Annonaceae	82
+family	Hydrocharitaceae	126
+family	Euphorbiaceae	29
+family	Marattiaceae	155
+family	Convolvulaceae	23
+family	Urticaceae	89
+family	Plantaginaceae	80
+family	Santalaceae	201
+family	Magnoliaceae	75
+family	Hanguanaceae	138
+family	Hypoxidaceae	141
+family	Icacinaceae	159
+family	Elaeocarpaceae	148
+family	Nelumbonaceae	16
+family	Staphyleaceae	180
+family	Moringaceae	67
+family	Asphodelaceae	103
+family	Bixaceae	39
+family	Pandanaceae	72
+family	Pandaceae	184
+family	Pentaphragmataceae	151
+family	Basellaceae	149
+family	Heliconiaceae	123
+family	Haemodoraceae	198
+family	Piperaceae	93
+family	Anisophylleaceae	107
+family	Podocarpaceae	60
+family	Mayacaceae	108
+family	Dilleniaceae	77
+family	Chrysobalanaceae	166
+family	Centroplacaceae	161
+family	Bonnetiaceae	179
+family	Ixonanthaceae	185
+family	Hernandiaceae	158
+family	Torricelliaceae	52
+family	Opiliaceae	168
+family	Philydraceae	190
+family	Gesneriaceae	109
+family	Muntingiaceae	94
+family	Gelsemiaceae	152
+family	Calophyllaceae	78
+family	Connaraceae	131
+family	Hypericaceae	130
+family	Theaceae	51
+family	Ebenaceae	31
+family	Pedaliaceae	110
+family	Cleomaceae	61
+family	Myristicaceae	112
+family	Cabombaceae	191
+family	Flagellariaceae	154
+family	Loganiaceae	143
+family	Talinaceae	111
+family	Dioscoreaceae	37
+family	Linderniaceae	25
+family	Costaceae	85
+family	Ochnaceae	145
+family	Pentaphylacaceae	28
+family	Begoniaceae	124
+family	Olacaceae	160
+family	Tectariaceae	117
+family	Polygalaceae	144
+family	Erythroxylaceae	173
+family	Pottiaceae	181
+family	Marantaceae	46
+family	Eriocaulaceae	137
+family	Lindsaeaceae	153
+family	Dipteridaceae	114
+family	Smilacaceae	76
+family	Plumbaginaceae	9
+family	Schizaeaceae	202
+family	Colchicaceae	92
+family	Psilotaceae	142
+family	Ceramiaceae	182
+family	Rhizophoraceae	13
+family	Caricaceae	132
+family	Aspleniaceae	105
+family	Musaceae	47
+family	Casuarinaceae	69
+family	Hymenophyllaceae	175
+family	Burmanniaceae	178
+family	Combretaceae	88
+family	Lygodiaceae	20
+family	Malpighiaceae	34
+family	Ceratophyllaceae	122
+family	Cyatheaceae	134
+family	Dipterocarpaceae	115
+family	Davalliaceae	136
+family	Menispermaceae	27
+family	Salviniaceae	100
+family	Saururaceae	171
+family	Burseraceae	98
+family	Menyanthaceae	116
+family	Halymeniaceae	135
+family	Goodeniaceae	95
+family	Nephrolepidaceae	90
+family	Athyriaceae	189
+family	Boodleaceae	204
+family	Petiveriaceae	140
+family	Mazaceae	163
+family	Leucobryaceae	172
+family	Dichotomosiphonaceae	177
+order	Apiales	8
+order	Caryophyllales	7
+order	Lamiales	5
+order	Sapindales	20
+order	Dipsacales	23
+order	Poales	3
+order	Asterales	4
+order	Polypodiales	33
+order	Ericales	18
+order	Laurales	39
+order	Asparagales	24
+order	Liliales	37
+order	Ranunculales	17
+order	Fagales	32
+order	Myrtales	11
+order	Solanales	6
+order	Alismatales	14
+order	Pinales	29
+order	Malvales	19
+order	Fabales	1
+order	Pottiales	59
+order	Cornales	64
+order	Commelinales	9
+order	Rosales	16
+order	Lycopodiales	40
+order	Geraniales	62
+order	Gentianales	2
+order	Santalales	51
+order	Arecales	28
+order	Zingiberales	25
+order	Selaginellales	27
+order	Magnoliales	36
+order	Bryopsidales	47
+order	Cladophorales	61
+order	Malpighiales	10
+order	Dioscoreales	21
+order	Dilleniales	38
+order	Ophioglossales	63
+order	Ulvales	54
+order	Gnetales	44
+order	Ceramiales	60
+order	Marattiales	52
+order	Nymphaeales	45
+order	Cucurbitales	12
+order	Saxifragales	26
+order	Aquifoliales	56
+order	Oxalidales	35
+order	Brassicales	30
+order	Vitales	22
+order	Crossosomatales	58
+order	Piperales	41
+order	Psilotales	50
+order	Proteales	13
+order	Pandanales	34
+order	Dicranales	55
+order	Halymeniales	49
+order	Ceratophyllales	46
+order	Salviniales	43
+order	Schizaeales	15
+order	Hymenophyllales	57
+order	Gleicheniales	31
+order	Cyatheales	48
+order	Boraginales	42
+order	Icacinales	53
+species	Antigonon leptopus	777
+species	Cosmos sulphureus	300
+species	Mimosa pigra	216
+species	Leucaena leucocephala	202
+species	Tillandsia usneoides	1630
+species	Antirrhinum majus	1533
+species	Nephrolepis cordifolia	1093
+species	Chrysophyllum cainito	436
+species	Datura metel	563
+species	Tecoma stans	817
+species	Calliandra haematocephala	429
+species	Nerium oleander	35
+species	Mangifera indica	390
+species	Couroupita guianensis	1465
+species	Cocos nucifera	343
+species	Capsicum annuum	255
+species	Zea mays	1272
+species	Lantana camara	324
+species	Thalassia hemprichii	762
+species	Acacia auriculiformis	56
+species	Halophila spinulosa	645
+species	Cardamine hirsuta	1443
+species	Sorghum bicolor	403
+species	Salix babylonica	1249
+species	Foeniculum vulgare	1552
+species	Halophila ovalis	653
+species	Chamaecrista mimosoides	1303
+species	Caulerpa taxifolia	655
+species	Oxalis corniculata	285
+species	Artemisia vulgaris	410
+species	Spirodela polyrhiza	1442
+species	Ficus benjamina	235
+species	Lobularia maritima	1530
+species	Lemna minor	32
+species	Passiflora foetida	295
+species	Solanum lycopersicum	394
+species	Bidens pilosa	1390
+species	Amaranthus retroflexus	1554
+species	Amaranthus blitum	1513
+species	Phyla nodiflora	458
+species	Heuchera micrantha	1525
+species	Melia azedarach	680
+species	Pontederia cordata	932
+species	Colubrina asiatica	1061
+species	Mimosa pudica	347
+species	Ricinus communis	486
+species	Ficus microcarpa	868
+species	Trimezia martinicensis	512
+species	Fatoua villosa	1372
+species	Dicranopteris linearis	277
+species	Enhalus acoroides	649
+species	Hevea brasiliensis	218
+species	Punica granatum	482
+species	Aristolochia littoralis	618
+species	Caulerpa racemosa	676
+species	Morus alba	91
+species	Helianthus annuus	40
+species	Cucumis sativus	864
+species	Ficus benghalensis	212
+species	Ludwigia peruviana	1648
+species	Mirabilis jalapa	29
+species	Passiflora edulis	1282
+species	Pteris vittata	270
+species	Solanum americanum	1611
+species	Portulaca oleracea	1057
+species	Eleocharis geniculata	668
+species	Aristolochia gigantea	571
+species	Eleusine indica	1100
+species	Boerhavia coccinea	1661
+species	Pistia stratiotes	611
+species	Cenchrus echinatus	1113
+species	Salvinia molesta	971
+species	Utricularia gibba	1189
+species	Tagetes erecta	440
+species	Jacaranda mimosifolia	887
+species	Eriobotrya japonica	1505
+species	Lantana montevidensis	215
+species	Commelina benghalensis	782
+species	Crassula ovata	1547
+species	Cyperus iria	177
+species	Eclipta prostrata	5
+species	Ipomoea cairica	348
+species	Sporobolus indicus	1200
+species	Melaleuca viminalis	306
+species	Bacopa monnieri	914
+species	Solanum nigrum	1064
+species	Echinochloa colona	1365
+species	Pandanus tectorius	814
+species	Porophyllum ruderale	1175
+species	Sida rhombifolia	1439
+species	Amaranthus caudatus	897
+species	Pandanus odorifer	711
+species	Melinis repens	783
+species	Pittosporum tobira	1084
+species	Avicennia marina	1467
+species	Boerhavia diffusa	470
+species	Hydrilla verticillata	693
+species	Cyperus rotundus	178
+species	Ipomoea indica	150
+species	Asparagus setaceus	289
+species	Gossypium hirsutum	379
+species	Amaranthus viridis	1251
+species	Buddleja davidii	104
+species	Cestrum nocturnum	84
+species	Asclepias curassavica	442
+species	Dactyloctenium aegyptium	12
+species	Stenotaphrum secundatum	1002
+species	Lonicera japonica	81
+species	Plumbago auriculata	44
+species	Triadica sebifera	249
+species	Artocarpus altilis	778
+species	Cucumis melo	166
+species	Thespesia populnea	807
+species	Kalanchoe gastonis-bonnieri	1283
+species	Tacca integrifolia	664
+species	Philodendron pedatum	1361
+species	Kigelia africana	908
+species	Ammannia baccifera	993
+species	Syzygium jambos	138
+species	Nelumbo nucifera	27
+species	Dioscorea bulbifera	376
+species	Ximenia americana	1077
+species	Syzygium malaccense	737
+species	Araucaria angustifolia	1536
+species	Evolvulus glomeratus	154
+species	Evolvulus nummularius	582
+species	Piper nigrum	527
+species	Eugenia uniflora	1376
+species	Asplenium australasicum	920
+species	Justicia brandegeeana	143
+species	Bauhinia purpurea	210
+species	Nypa fruticans	362
+species	Plinia cauliflora	1693
+species	Pteris multifida	1201
+species	Epiphyllum oxypetalum	1290
+species	Areca catechu	1219
+species	Spigelia anthelmia	838
+species	Diospyros blancoi	61
+species	Palhinhaea cernua	250
+species	Asplenium nidus	455
+species	Pouteria campechiana	283
+species	Ceratonia siliqua	644
+species	Senna alata	245
+species	Heliotropium indicum	423
+species	Hibiscus schizopetalus	880
+species	Sansevieria trifasciata	1558
+species	Ocimum basilicum	585
+species	Ipomoea triloba	321
+species	Sagittaria platyphylla	1168
+species	Carica papaya	705
+species	Dalbergia latifolia	217
+species	Allamanda cathartica	884
+species	Cyperus odoratus	313
+species	Terminalia catappa	476
+species	Physalis angulata	601
+species	Cardiospermum halicacabum	525
+species	Pilea microphylla	268
+species	Cassia javanica	621
+species	Oryza sativa	485
+species	Hibiscus tiliaceus	117
+species	Durio zibethinus	199
+species	Tamarindus indica	509
+species	Senna obtusifolia	1568
+species	Tectona grandis	1238
+species	Conocarpus erectus	1097
+species	Solanum melongena	425
+species	Ludwigia palustris	1357
+species	Ulva lactuca	1121
+species	Ceratophyllum demersum	627
+species	Impatiens walleriana	1075
+species	Nymphaea alba	1045
+species	Anthurium andraeanum	1535
+species	Caesalpinia pulcherrima	531
+species	Epipremnum aureum	657
+species	Theobroma cacao	60
+species	Medinilla magnifica	919
+species	Eucalyptus camaldulensis	870
+species	Ipomoea batatas	406
+species	Leonurus japonicus	565
+species	Annona glabra	488
+species	Phyllanthus emblica	1667
+species	Annona squamosa	924
+species	Lactuca indica	34
+species	Catharanthus roseus	25
+species	Ipomoea pes-caprae	320
+species	Typha angustifolia	354
+species	Hibiscus rosa-sinensis	590
+species	Ficus carica	532
+species	Pentas lanceolata	296
+species	Cosmos bipinnatus	301
+species	Solanum torvum	294
+species	Cassia fistula	109
+species	Delonix regia	7
+species	Pueraria montana	1635
+species	Calotropis gigantea	422
+species	Microsorum scolopendria	187
+species	Hydrocotyle verticillata	374
+species	Ceiba pentandra	867
+species	Momordica charantia	26
+species	Psidium guajava	477
+species	Aeschynomene americana	1193
+species	Casuarina equisetifolia	227
+species	Clerodendrum villosum	493
+species	Utricularia caerulea	1223
+species	Jatropha gossypiifolia	479
+species	Perilla frutescens	1236
+species	Curcuma longa	630
+species	Arundina graminifolia	371
+species	Vitex trifolia	230
+species	Gnetum microcarpum	1218
+species	Wodyetia bifurcata	1358
+species	Lygodium longifolium	969
+species	Ixora chinensis	323
+species	Ophioglossum nudicaule	1592
+species	Taenitis interrupta	1125
+species	Caulerpa serrulata	654
+species	Juniperus squamata	641
+species	Impatiens balsamina	1053
+species	Podocarpus polystachyus	1606
+species	Dypsis lutescens	1426
+species	Lagerstroemia indica	308
+species	Dipteris conjugata	535
+species	Dicranopteris curranii	156
+species	Senna spectabilis	1613
+species	Tabernaemontana pachysiphon	119
+species	Hymenaea courbaril	475
+species	Oldenlandia corymbosa	635
+species	Dalbergia candenatensis	790
+species	Sesbania cannabina	818
+species	Mimosa bimucronata	1300
+species	Euphorbia hyssopifolia	503
+species	Euphorbia hirta	172
+species	Cajanus cajan	987
+species	Brachychiton rupestris	1548
+species	Podocarpus neriifolius	147
+species	Indigofera hendecaphylla	1293
+species	Acrostichum aureum	383
+species	Desmodium tortuosum	1506
+species	Ixora coccinea	712
+species	Lagerstroemia speciosa	244
+species	Sesuvium portulacastrum	650
+species	Adiantum tenerum	1514
+species	Cynometra ramiflora	1318
+species	Cyanthillium cinereum	589
+species	Baphia nitida	201
+species	Portulaca pilosa	799
+species	Waltheria indica	526
+species	Spathoglottis plicata	547
+species	Ipomoea imperati	1112
+species	Bauhinia acuminata	551
+species	Garcinia subelliptica	510
+species	Crinum pedunculatum	695
+species	Angelonia angustifolia	1556
+species	Richardia scabra	800
+species	Tithonia diversifolia	596
+species	Sida cordifolia	1629
+species	Gnetum gnemon	414
+species	Jasminum sambac	380
+species	Rhodomyrtus tomentosa	253
+species	Canavalia rosea	745
+species	Podocarpus macrophyllus	1493
+species	Galphimia gracilis	1278
+species	Melothria pendula	37
+species	Elaeis guineensis	334
+species	Carissa macrocarpa	198
+species	Eupatorium capillifolium	372
+species	Indigofera hirsuta	1090
+species	Platycerium bifurcatum	1228
+species	Platycladus orientalis	1468
+species	Alysicarpus vaginalis	834
+species	Rivina humilis	809
+species	Agelaea borneensis	1019
+species	Whitfieldia elongata	95
+species	Sclerochiton harveyanus	885
+species	Christella arida	1346
+species	Bromheadia finlaysoniana	661
+species	Averrhoa carambola	282
+species	Dendrobium aloifolium	1092
+species	Andrographis paniculata	185
+species	Gloriosa superba	271
+species	Hypoestes aristata	1257
+species	Lablab purpureus	898
+species	Syngonium podophyllum	696
+species	Trema orientale	1263
+species	Scindapsus hederaceus	1116
+species	Megaskepasma erythrochlamys	1436
+species	Tacca leontopetaloides	665
+species	Canna indica	330
+species	Amorphophallus paeoniifolius	1690
+species	Musa acuminata	730
+species	Coix lacryma-jobi	124
+species	Caryota urens	1078
+species	Fimbristylis dichotoma	4
+species	Ageratum conyzoides	74
+species	Hedychium coronarium	1270
+species	Sophora tomentosa	457
+species	Thalia geniculata	747
+species	Stachytarpheta cayennensis	378
+species	Lespedeza bicolor	17
+species	Antidesma bunius	556
+species	Alpinia galanga	160
+species	Mazus pumilus	1083
+species	Morinda citrifolia	281
+species	Paederia foetida	318
+species	Ananas comosus	1240
+species	Centrosema virginianum	1173
+species	Cymbopogon citratus	894
+species	Aloe vera	1275
+species	Spathodea campanulata	239
+species	Codiaeum variegatum	1266
+species	Alocasia macrorrhizos	634
+species	Dracaena reflexa	233
+species	Solandra maxima	1235
+species	Cecropia pachystachya	1421
+species	Plumeria rubra	923
+species	Philodendron hederaceum	569
+species	Heliconia rostrata	1273
+species	Plumbago zeylanica	14
+species	Hoya carnosa	896
+species	Vigna radiata	427
+species	Acmella uliginosa	1005
+species	Ficus elastica	213
+species	Myristica fragrans	508
+species	Nepenthes rafflesiana	707
+species	Monstera deliciosa	1147
+species	Angiopteris evecta	965
+species	Vitex rotundifolia	566
+species	Youngia japonica	36
+species	Ruellia simplex	23
+species	Hamelia patens	351
+species	Elaeocarpus angustifolius	881
+species	Cordia subcordata	973
+species	Fatsia japonica	1527
+species	Coccoloba uvifera	356
+species	Saccharum officinarum	367
+species	Bixa orellana	129
+species	Garcinia mangostana	240
+species	Brachychiton acerifolius	79
+species	Anacardium occidentale	667
+species	Allium tuberosum	720
+species	Licuala grandis	311
+species	Echinodorus cordifolius	1428
+species	Centrosema pubescens	832
+species	Russelia equisetiformis	793
+species	Ipomoea quamoclit	45
+species	Malvaviscus arboreus	434
+species	Eucalyptus deglupta	1043
+species	Mimosa diplotricha	558
+species	Urena lobata	557
+species	Bambusa vulgaris	872
+species	Epipremnum pinnatum	189
+species	Murraya koenigii	85
+species	Emilia sonchifolia	329
+species	Artocarpus heterophyllus	520
+species	Colocasia esculenta	370
+species	Broussonetia papyrifera	1105
+species	Ficus religiosa	612
+species	Ficus virens	1453
+species	Hibiscus syriacus	396
+species	Dracaena fragrans	222
+species	Passiflora suberosa	186
+species	Thunbergia grandiflora	359
+species	Hydrocotyle sibthorpioides	155
+species	Gomphrena globosa	162
+species	Ageratum houstonianum	1537
+species	Etlingera elatior	662
+species	Vigna unguiculata	528
+species	Abrus precatorius	930
+species	Cordyline fruticosa	168
+species	Pandanus amaryllifolius	364
+species	Eragrostis atrovirens	1196
+species	Ochna thomasiana	859
+species	Cassytha filiformis	519
+species	Ipomoea carnea	352
+species	Macaranga tanarius	1572
+species	Salix reticulata	1452
+species	Passiflora laurifolia	675
+species	Pilea nummulariifolia	1484
+species	Cuphea carthagenensis	1684
+species	Pteris ensiformis	949
+species	Portulaca umbraticola	30
+species	Spermacoce ocymoides	1454
+species	Swietenia macrophylla	1082
+species	Talinum paniculatum	1262
+species	Flemingia strobilifera	67
+species	Stictocardia tiliifolia	1169
+species	Muntingia calabura	304
+species	Clerodendrum bungei	228
+species	Syngonium angustatum	1482
+species	Sanchezia speciosa	1473
+species	Hyptis capitata	1079
+species	Mayaca fluviatilis	472
+species	Synedrella nodiflora	314
+species	Eragrostis unioloides	947
+species	Eryngium foetidum	15
+species	Indigofera spicata	1571
+species	Cuphea hyssopifolia	297
+species	Lagenaria siceraria	1166
+species	Polyscias scutellaria	1305
+species	Cyperus prolifer	625
+species	Scleria ciliata	1126
+species	Thunbergia fragrans	208
+species	Pseuderanthemum variabile	1260
+species	Hyophila involuta	1410
+species	Tectaria incisa	1004
+species	Pluchea indica	1066
+species	Kalanchoe pinnata	461
+species	Erythrina crista-galli	417
+species	Neptunia plena	349
+species	Senna occidentalis	39
+species	Scleria lithosperma	1591
+species	Cosmos caudatus	428
+species	Piper aduncum	541
+species	Justicia betonica	365
+species	Thuarea involuta	1478
+species	Cleome rutidosperma	149
+species	Ruellia nudiflora	1350
+species	Kalanchoe delagoensis	106
+species	Jasminum multiflorum	86
+species	Phyllanthus acidus	63
+species	Corchorus aestuans	1384
+species	Sacciolepis indica	1459
+species	Ludwigia octovalvis	453
+species	Pisonia grandis	456
+species	Manihot esculenta	125
+species	Crotalaria pallida	328
+species	Physalis minima	411
+species	Psilotum nudum	836
+species	Mitracarpus hirtus	1380
+species	Cyperus sphacelatus	1323
+species	Pouzolzia zeylanica	1029
+species	Fimbristylis cymosa	1198
+species	Centella asiatica	407
+species	Digitaria bicornis	1202
+species	Murdannia nudiflora	1515
+species	Leersia hexandra	1364
+species	Cordia sebestena	322
+species	Cordia dichotoma	1302
+species	Hemigraphis alternata	448
+species	Pteris tripartita	941
+species	Ruellia prostrata	876
+species	Stachytarpheta jamaicensis	326
+species	Erigeron bellioides	803
+species	Peperomia pellucida	405
+species	Graptophyllum pictum	449
+species	Jacquemontia pentanthos	1662
+species	Nymphaea lotus	1322
+species	Torenia fournieri	50
+species	Hibiscus mutabilis	200
+species	Ipomoea obscura	293
+species	Selaginella willdenowii	131
+species	Euphorbia tirucalli	259
+species	Laportea aestuans	1127
+species	Mucuna pruriens	774
+species	Eugenia reinwardtiana	441
+species	Phyllanthus amarus	796
+species	Crescentia cujete	1447
+species	Tabernaemontana divaricata	624
+species	Chloris barbata	175
+species	Hura crepitans	940
+species	Clusia rosea	1627
+species	Phyllanthus urinaria	409
+species	Caryota mitis	369
+species	Mikania micrantha	382
+species	Thunbergia erecta	19
+species	Eragrostis tenella	540
+species	Stachytarpheta mutabilis	480
+species	Cleome viscosa	1642
+species	Sesbania grandiflora	49
+species	Melochia corchorifolia	945
+species	Pityrogramma calomelanos	1114
+species	Senna surattensis	312
+species	Crassocephalum crepidioides	521
+species	Mecardonia procumbens	1373
+species	Malpighia glabra	1362
+species	Plumeria obtusa	1035
+species	Duranta erecta	9
+species	Holmskioldia sanguinea	135
+species	Paspalum conjugatum	1058
+species	Cyperus polystachyos	1641
+species	Elephantopus mollis	784
+species	Tradescantia pallida	20
+species	Striga asiatica	1359
+species	Fimbristylis littoralis	1149
+species	Imperata cylindrica	494
+species	Hibiscus sabdariffa	437
+species	Ceratopteris thalictroides	1363
+species	Heliconia latispatha	1651
+species	Solanum mammosum	287
+species	Ficus pumila	404
+species	Nymphoides indica	538
+species	Pithecellobium dulce	310
+species	Melastoma malabathricum	298
+species	Malpighia coccigera	158
+species	Tradescantia spathacea	858
+species	Centratherum punctatum	432
+species	Nephrolepis biserrata	269
+species	Clitoria ternatea	291
+species	Euphorbia heterophylla	514
+species	Lygodium japonicum	471
+species	Cyperus papyrus	58
+species	Moringa oleifera	171
+species	Lumnitzera racemosa	805
+species	Celosia argentea	46
+species	Coccinia grandis	325
+species	Macroptilium atropurpureum	513
+species	Chrysopogon aciculatus	1204
+species	Petrea volubilis	1071
+species	Sida acuta	490
+species	Podranea ricasoliana	464
+species	Crinum asiaticum	92
+species	Jatropha curcas	917
+species	Clerodendrum japonicum	857
+species	Portulaca grandiflora	159
+species	Thunbergia laurifolia	173
+species	Commelina diffusa	167
+species	Spermacoce verticillata	946
+species	Phyllanthus debilis	944
+species	Ochna serrulata	1288
+species	Crotalaria retusa	504
+species	Cestrum diurnum	31
+species	Syzygium cumini	910
+species	Lygodium microphyllum	33
+species	Tradescantia zebrina	133
+species	Polygala paniculata	849
+species	Citharexylum spinosum	183
+species	Manilkara zapota	122
+species	Macroptilium lathyroides	588
+species	Tridax procumbens	346
+species	Ipomoea aquatica	350
+species	Thalia dealbata	726
+species	Jatropha integerrima	1682
+species	Turnera ulmifolia	174
+species	Zoysia japonica	1460
+species	Urochloa mutica	1194
+species	Zoysia matrella	1640
+species	Zephyranthes rosea	1408
+species	Tulbaghia violacea	242
+species	Alstonia macrophylla	1407
+species	Alstonia angustiloba	2
+species	Alpinia mutica	1309
+species	Brugmansia suaveolens	1299
+species	Posoqueria latifolia	1326
+species	Torenia asiatica	1383
+species	Ardisia crenata	1317
+species	Acalypha arvensis	1472
+species	Aglaonema commutatum	877
+species	Pachira aquatica	1301
+species	Bougainvillea glabra	1695
+species	Blighia sapida	839
+species	Houttuynia cordata	1280
+species	Canavalia cathartica	1214
+species	Bacopa caroliniana	766
+species	Hippobroma longiflora	180
+species	Callisia repens	1234
+species	Acalypha indica	728
+species	Canavalia gladiata	439
+species	Acalypha alopecuroidea	736
+species	Adenanthera pavonina	214
+species	Andira inermis	753
+species	Cananga odorata	542
+species	Microsorum punctatum	1041
+species	Barleria cristata	263
+species	Jatropha podagrica	375
+species	Asystasia gangetica	11
+species	Bidens odorata	1080
+species	Axonopus compressus	658
+species	Abutilon indicum	152
+species	Basella alba	899
+species	Drynaria quercifolia	506
+species	Pachystachys lutea	97
+species	Ardisia elliptica	275
+species	Abelmoschus esculentus	161
+species	Abildgaardia ovata	1638
+species	Alpinia zerumbet	779
+species	Alpinia purpurata	1276
+species	Calophyllum inophyllum	415
+species	Breynia disticha	794
+species	Alternanthera brasiliana	1074
+species	Aristolochia grandiflora	1158
+species	Alternanthera sessilis	462
+species	Argyreia nervosa	421
+species	Abelmoschus moschatus	500
+species	Horsfieldia irya	1463
+species	Dipterocarpus kunstleri	537
+species	Diospyros argentea	73
+species	Syzygium glaucum	738
+species	Diospyros singaporensis	1392
+species	Cynometra iripa	1440
+species	Ceriops zippeliana	911
+species	Dipterocarpus cornutus	1636
+species	Lumnitzera littorea	340
+species	Syzygium polyanthum	279
+species	Xylocarpus granatum	808
+species	Dillenia philippinensis	209
+species	Syzygium ridleyi	1343
+species	Hopea odorata	980
+species	Cratoxylum formosum	684
+species	Hygrophila difformis	954
+species	Dyera costulata	236
+species	Chromolaena odorata	607
+species	Acanthophora spicifera	1471
+species	Rhizophora apiculata	860
+species	Dentella repens	761
+species	Acrostichum speciosum	931
+species	Rhizophora stylosa	660
+species	Calophyllum soulattri	207
+species	Hopea ferrea	615
+species	Dolichandrone spathacea	286
+species	Acacia mangium	847
+species	Ceriops tagal	1024
+species	Livistona chinensis	742
+species	Rhizophora mucronata	812
+species	Barringtonia racemosa	302
+species	Euphorbia geroldii	1601
+species	Sonneratia alba	813
+species	Heritiera littoralis	1037
+species	Excoecaria agallocha	1089
+species	Sonneratia caseolaris	819
+species	Coccoloba rugosa	848
+species	Dimocarpus longan	1220
+species	Agapanthus praecox	1531
+species	Cheilanthes tenuifolia	1438
+species	Agave victoriae-reginae	1541
+species	Echinodorus palifolius	871
+species	Cyperus alterniflorus	333
+species	Pseudobombax ellipticum	1553
+species	Euphorbia nutans	1197
+species	Acalypha hispida	262
+species	Cyathula prostrata	1401
+species	Rubus moluccanus	780
+species	Caulerpa sertularioides	677
+species	Magnolia figo	1255
+species	Adonidia merrillii	1159
+species	Pseuderanthemum carruthersii	299
+species	Persicaria chinensis	42
+species	Tabebuia rosea	1413
+species	Dieffenbachia seguine	402
+species	Euphorbia thymifolia	344
+species	Senna siamea	1160
+species	Ficus lyrata	1215
+species	Iris domestica	219
+species	Cyperus alternifolius	1418
+species	Aglaia rufinervis	1210
+species	Alangium longiflorum	1673
+species	Bruguiera cylindrica	651
+species	Spyridia filamentosa	1411
+species	Saraca cauliflora	238
+species	Bhesa paniculata	1040
+species	Barclaya motleyi	578
+species	Acanthus volubilis	1494
+species	Bridelia ovata	619
+species	Anodendron candolleanum	1177
+species	Ixonanthes icosandra	1480
+species	Bruguiera parviflora	1589
+species	Aphanamixis polystachya	846
+species	Hydrocera triflora	1490
+species	Bruguiera sexangula	763
+species	Acanthus ebracteatus	484
+species	Aglaia cucullata	735
+species	Pentaspadon motleyi	1349
+species	Avicennia officinalis	804
+species	Avicennia rumphiana	1424
+species	Aquilaria malaccensis	140
+species	Alstonia scholaris	248
+species	Scaphium macropodum	913
+species	Agrostistachys borneensis	474
+species	Avicennia alba	811
+species	Baccaurea polyneura	1143
+species	Anisophyllea disticha	466
+species	Carallia brachiata	392
+species	Alstonia spatulata	1399
+species	Pellacalyx axillaris	1120
+species	Aglaia odorata	132
+species	Ocimum tenuiflorum	288
+species	Sandoricum koetjape	224
+species	Chukrasia tabularis	629
+species	Zinnia elegans	1451
+species	Alstonia angustifolia	1427
+species	Acanthus ilicifolius	1087
+species	Barringtonia asiatica	111
+species	Orthosiphon aristatus	342
+species	Cratoxylum cochinchinense	704
+species	Loropetalum chinense	1247
+species	Lindsaea ensifolia	951
+species	Lobelia chinensis	373
+species	Cyrtosperma merkusii	1259
+species	Sterculia apetala	1581
+species	Hymenocallis littoralis	739
+species	Potentilla indica	43
+species	Callicarpa tomentosa	646
+species	Sphagneticola trilobata	339
+species	Euphorbia hypericifolia	1108
+species	Mansoa hymenaea	105
+species	Nephelium lappaceum	225
+species	Coffea liberica	1316
+species	Polyscias balfouriana	1469
+species	Xiphidium caeruleum	1559
+species	Corchorus capsularis	1631
+species	Ixora finlaysoniana	534
+species	Cascabela thevetia	69
+species	Adiantum latifolium	733
+species	Calliandra tergemina	1036
+species	Epiphyllum hookeri	1633
+species	Alternanthera ficoidea	469
+species	Molineria capitulata	1186
+species	Galphimia glauca	193
+species	Euphorbia tithymaloides	1555
+species	Clerodendrum thomsoniae	357
+species	Psidium cattleyanum	1237
+species	Muehlenbeckia platyclada	130
+species	Heliconia psittacorum	628
+species	Calopogonium mucunoides	1306
+species	Pleiostachya pruinosa	633
+species	Polyscias fruticosa	309
+species	Trimezia steyermarkii	274
+species	Passiflora pallida	921
+species	Ludwigia sedoides	1681
+species	Tecomaria capensis	16
+species	Geophila repens	1191
+species	Justicia fulvicoma	886
+species	Samanea saman	755
+species	Begonia maculata	640
+species	Benincasa hispida	1106
+species	Calathea lutea	272
+species	Caesalpinia crista	791
+species	Hydrocotyle leucocephala	833
+species	Ludwigia hyssopifolia	473
+species	Episcia cupreata	1597
+species	Tagetes lucida	41
+species	Limnocharis flava	559
+species	Quassia amara	68
+species	Ludwigia adscendens	670
+species	Arachnothryx leucophylla	267
+species	Malpighia emarginata	66
+species	Caladium bicolor	943
+species	Lawsonia inermis	1623
+species	Combretum indicum	266
+species	Sesamum indicum	495
+species	Elephantopus scaber	529
+species	Murraya paniculata	157
+species	Rhapis excelsa	368
+species	Spathiphyllum wallisii	770
+species	Annona muricata	1068
+species	Acalypha wilkesiana	431
+species	Odontonema tubaeforme	1332
+species	Azadirachta indica	1226
+species	Averrhoa bilimbi	385
+species	Scoparia dulcis	1199
+species	Pachystachys spicata	96
+species	Brunfelsia americana	194
+species	Solanum wrightii	13
+species	Justicia comata	1657
+species	Stylosanthes humilis	781
+species	Rhynchospora corymbosa	1663
+species	Spermacoce latifolia	760
+species	Spermacoce exilis	636
+species	Musa balbisiana	1091
+species	Ruellia tuberosa	497
+species	Coleus scutellarioides	1286
+species	Arachis pintoi	48
+species	Turnera subulata	907
+species	Syngonium wendlandii	72
+species	Centrosema molle	331
+species	Lansium domesticum	545
+species	Tristellateia australasiae	190
+species	Oldenlandia cristata	1395
+species	Donax canniformis	769
+species	Diplazium proliferum	1479
+species	Spermacoce remota	523
+species	Geranium macrorrhizum	1532
+species	Oxalis barrelieri	195
+species	Scleria ciliaris	830
+species	Syzygium samarangense	459
+species	Praxelis clematidea	18
+species	Musa ornata	337
+species	Philodendron erubescens	1386
+species	Allamanda schottii	1406
+species	Dillenia indica	927
+species	Kalanchoe beharensis	1546
+species	Musa velutina	717
+species	Chlorophytum comosum	1267
+species	Mussaenda erythrophylla	184
+species	Schoenoplectiella mucronata	141
+species	Mussaenda philippica	315
+species	Ficinia nodosa	1248
+species	Nymphaea nouchali	746
+species	Bunchosia argentea	445
+species	Allamanda blanchetii	115
+species	Cabomba aquatica	1496
+species	Eleutheranthera ruderalis	561
+species	Grewia occidentalis	430
+species	Seemannia sylvatica	1081
+species	Brugmansia sanguinea	1230
+species	Calliandra surinamensis	568
+species	Neolamarckia cadamba	1670
+species	Clerodendrum chinense	1176
+species	Cerbera manghas	672
+species	Peltophorum pterocarpum	483
+species	Iguanura wallichiana	145
+species	Beaumontia jerdoniana	1016
+species	Kopsia flavida	181
+species	Heritiera simplicifolia	1620
+species	Neesia altissima	70
+species	Costus woodsonii	591
+species	Ficus triangularis	1265
+species	Aralidium pinnatifidum	114
+species	Gynura pseudochina	478
+species	Scorodocarpus borneensis	1671
+species	Syzygium grande	24
+species	Sterculia rubiginosa	391
+species	Lygodium flexuosum	413
+species	Nelsonia canescens	691
+species	Lecythis ollaria	107
+species	Arenga hookeriana	501
+species	Abroma augustum	90
+species	Spermacoce hispida	1492
+species	Baccaurea parviflora	801
+species	Hoya elliptica	412
+species	Ficus grossularioides	223
+species	Pseudomussaenda flava	307
+species	Garcinia xanthochymus	451
+species	Psophocarpus tetragonolobus	426
+species	Premna foetida	252
+species	Rhopaloblaste singaporensis	1520
+species	Aidia densiflora	772
+species	Afgekia sericea	450
+species	Osmoxylon lineare	616
+species	Clerodendrum buchananii	593
+species	Strobilanthes crispus	389
+species	Garcinia griffithii	1027
+species	Aglaonema nitidum	1600
+species	Archidendron jiringa	701
+species	Ruellia chartacea	112
+species	Pometia pinnata	221
+species	Tarenna fragrans	863
+species	Fibraurea tinctoria	52
+species	Ptychosperma macarthurii	341
+species	Blechnum orientale	950
+species	Jasminum laurifolium	264
+species	Spathiphyllum cannifolium	1457
+species	Flacourtia rukam	121
+species	Ficus heteropleura	889
+species	Cola gigantea	981
+species	Claoxylon indicum	234
+species	Costus lucanusianus	363
+species	Wrightia antidysenterica	87
+species	Adinandra dumosa	53
+species	Canarium vulgare	353
+species	Suregada multiflora	387
+species	Shorea ovalis	1164
+species	Ficus chartacea	1566
+species	Memecylon caeruleum	251
+species	Ravenia spectabilis	127
+species	Melaleuca cajuputi	254
+species	Limnophila chinensis	825
+species	Syzygium zeylanicum	229
+species	Gmelina dalrympleana	65
+species	Cyrtosperma johnstonii	142
+species	Tecomanthe dendrophila	136
+species	Endospermum diadenum	1583
+species	Bridelia tomentosa	420
+species	Cissus discolor	76
+species	Derris elliptica	1261
+species	Amherstia nobilis	1405
+species	Clerodendrum laevifolium	89
+species	Pterocarpus indicus	722
+species	Spathoglottis gracilis	714
+species	Lepisanthes amoena	332
+species	Phaleria macrocarpa	1281
+species	Oncoba spinosa	725
+species	Gynura procumbens	1634
+species	Barringtonia reticulata	1699
+species	Syzygium borneense	788
+species	Lophanthera lactescens	258
+species	Salvinia cucullata	360
+species	Maniltoa browneoides	1
+species	Memecylon pauciflorum	518
+species	Cochlospermum religiosum	77
+species	Garcinia nervosa	926
+species	Ixeris chinensis	153
+species	Lagerstroemia floribunda	1059
+species	Fagraea auriculata	1476
+species	Trichosanthes cucumerina	444
+species	Christia obcordata	1593
+species	Ixora javanica	592
+species	Ruellia repens	22
+species	Solandra longiflora	355
+species	Pandanus pygmaeus	188
+species	Lepisanthes alata	685
+species	Bignonia magnifica	116
+species	Rotheca myricoides	82
+species	Kaempferia pulchra	1285
+species	Ormocarpum cochinchinense	1656
+species	Cucumis maderaspatanus	276
+species	Barringtonia edulis	452
+species	Sticherus truncatus	278
+species	Baccaurea motleyana	823
+species	Uncaria gambir	1124
+species	Macrosolen cochinchinensis	1030
+species	Cissus quadrangularis	88
+species	Duabanga grandiflora	866
+species	Flacourtia inermis	182
+species	Saraca indica	6
+species	Borassus flabellifer	335
+species	Phyllanthus cochinchinensis	345
+species	Centotheca lappacea	905
+species	Clinacanthus nutans	1462
+species	Acalypha siamensis	505
+species	Grammatophyllum speciosum	384
+species	Pogonatherum crinitum	906
+species	Camellia azalea	108
+species	Leea rubra	261
+species	Artocarpus elasticus	516
+species	Eurycoma longifolia	139
+species	Dracaena surculosa	468
+species	Piper betle	822
+species	Tinospora crispa	118
+species	Musa coccinea	418
+species	Glochidion rubrum	1498
+species	Ficus variegata	99
+species	Gymnostoma sumatranum	399
+species	Glochidion zeylanicum	854
+species	Hoya verticillata	843
+species	Oncosperma tigillarium	802
+species	Nepenthes gracilis	652
+species	Pyrrosia piloselloides	381
+species	Artocarpus integer	773
+species	Kaempferia galanga	460
+species	Mallotus paniculatus	55
+species	Dioscorea sansibarensis	467
+species	Melaleuca bracteata	447
+species	Nepenthes mirabilis	1645
+species	Excoecaria cochinchinensis	626
+species	Selaginella ciliaris	1417
+species	Nepenthes ampullaria	710
+species	Dischidia major	734
+species	Strophanthus gratus	102
+species	Impatiens hawkeri	1529
+species	Pleiocarpa mutica	134
+species	Nyctanthes arbor-tristis	148
+species	Serissa japonica	137
+species	Licuala spinosa	622
+species	Ficus deltoidea	243
+species	Melicope denhamii	103
+species	Ischaemum muticum	3
+species	Barringtonia acutangula	395
+species	Hoya pubicalyx	38
+species	Anisomeles indica	438
+species	Clerodendrum paniculatum	113
+species	Syzygium myrtifolium	179
+species	Tetracera indica	206
+species	Pyrrosia longifolia	257
+species	Musa laterita	336
+species	Strophanthus preussii	191
+species	Magnolia champaca	197
+species	Kopsia fruticosa	163
+species	Syzygium aqueum	686
+species	Fagraea fragrans	169
+species	Wrightia religiosa	768
+species	Filicium decipiens	256
+species	Saraca thaipingensis	28
+species	Dendrobium anosmum	1423
+species	Aloysia virgata	433
+species	Phyllanthus pulcher	401
+species	Gustavia superba	1328
+species	Utricularia bifida	1162
+species	Tabernaemontana corymbosa	903
+species	Sterculia foetida	454
+species	Cinnamomum iners	226
+species	Davallia denticulata	752
+species	Dendrobium crumenatum	507
+species	Ardisia gigantifolia	94
+species	Dianella ensifolia	424
+species	Pyrrosia lanceolata	196
+species	Leea indica	211
+species	Rhinacanthus nasutus	164
+species	Flueggea virosa	1654
+species	Clitoria fairchildiana	205
+species	Kleinhovia hospita	443
+species	Cynometra cauliflora	64
+species	Kalanchoe laetivirens	1233
+species	Xenostegia tridentata	524
+species	Gynura bicolor	151
+species	Cayratia mollissima	393
+species	Stenochlaena palustris	465
+species	Scindapsus pictus	463
+species	Cerbera odollam	8
+species	Mimusops elengi	756
+species	Piper sarmentosum	273
+species	Aphelandra sinclairiana	598
+species	Intsia bijuga	57
+species	Lepironia articulata	305
+species	Asystasia intrusa	54
+species	Xanthostemon chrysanthus	260
+species	Mansoa alliacea	47
+species	Pandorea jasminoides	550
+species	Dillenia suffruticosa	361
+species	Crossandra infundibuliformis	146
+species	Artocarpus camansi	842
+species	Parkia speciosa	972
+species	Tacca chantrieri	75
+species	Clausena excavata	767
+species	Kopsia singapurensis	120
+species	Congea tomentosa	648
+species	Hymenocallis speciosa	358
+species	Cyrtostachys renda	1239
+species	Spondias dulcis	123
+species	Licuala triphylla	144
+species	Tristaniopsis whiteana	962
+species	Terminalia brassii	492
+species	Aristolochia leuconeura	679
+species	Memecylon ovatum	246
+species	Xanthostemon youngii	489
+species	Memecylon edule	678
+species	Elytraria acaulis	1400
+species	Sindora wallichii	977
+species	Dischidia pectenoides	398
+species	Oldenlandia biflora	498
+species	Tristaniopsis obovata	1697
+species	Ixora lobbii	1085
+species	Alocasia longiloba	610
+species	Macaranga gigantea	771
+species	Syzygium pycnanthum	517
+species	Gmelina philippensis	110
+species	Khaya senegalensis	984
+species	Mesua ferrea	284
+species	Elaeocarpus hainanensis	893
+species	Ehretia microphylla	397
+species	Ficus fistulosa	204
+species	Combretum constrictum	614
+species	Aristolochia acuminata	511
+species	Trema tomentosa	1076
+species	Derris trifoliata	416
+species	Justicia procumbens	170
+species	Rhaphidophora korthalsii	1310
+species	Jacobaea maritima	1534
+species	Diplacrum caricinum	1594
+species	Leptospermum madidum	1115
+species	Terminalia mantaly	895
+species	Blumea lacera	1561
+species	Smilax setosa	203
+species	Scleria levis	1393
+species	Gardenia mutabilis	83
+species	Bulbophyllum vaginatum	697
+species	Scleria rugosa	1402
+species	Saraca declinata	960
+species	Blumea axillaris	1192
+species	Dendrolobium umbellatum	1167
+species	Gardenia carinata	1377
+species	Champereia manillana	1165
+species	Hernandia nymphaeifolia	1014
+species	Cenchrus purpureus	1224
+species	Cissus hastata	247
+species	Dischidia nummularia	1429
+species	Aleurites moluccanus	59
+species	Nauclea orientalis	642
+species	Nenga pumila	580
+species	Khaya grandifoliola	562
+species	Macaranga griffithiana	552
+species	Korthalsia echinometra	576
+species	Johannesteijsmannia magnifica	623
+species	Gymnostoma rumphianum	1333
+species	Daemonorops sabut	573
+species	Microstachys chamaelea	1387
+species	Persicaria attenuata	1187
+species	Eleiodoxa conferta	572
+species	Castanopsis inermis	554
+species	Eurya acuminata	1587
+species	Oncosperma horridum	577
+species	Myrialepis paradoxa	613
+species	Licuala orbicularis	1668
+species	Leucobryum aduncum	1295
+species	Talinum fruticosum	496
+species	Ipomoea mauritiana	967
+species	Ficus vasculosa	682
+species	Trema cannabina	853
+species	Merremia hirta	1034
+species	Syzygium claviflorum	1604
+species	Cynanchum ovalifolium	549
+species	Daemonorops grandis	574
+species	Licuala paludosa	579
+species	Cymbidium finlaysonianum	548
+species	Spermacoce articularis	1232
+species	Cyperus pedunculatus	1619
+species	Plectocomia elongata	575
+species	Mimusops balata	560
+species	Alocasia odora	1088
+species	Sterculia lanceolata	715
+species	Scaevola taccada	319
+species	Maranta leuconeura	599
+species	Chassalia curviflora	536
+species	Phoenix sylvestris	1679
+species	Ficus aurata	929
+species	Licuala ferruginea	1461
+species	Phyllanthus virgatus	1385
+species	Areca triandra	1244
+species	Saribus rotundifolius	1217
+species	Callicarpa longifolia	1101
+species	Flagellaria indica	958
+species	Pipturus argenteus	533
+species	Gymnanthera oblonga	1368
+species	Commersonia bartramia	553
+species	Ficus hispida	731
+species	Cissus repens	1131
+species	Guettarda speciosa	1015
+species	Premna serratifolia	810
+species	Mitrasacme pygmaea	1379
+species	Cyclosorus interruptus	1021
+species	Ficus auriculata	544
+species	Tabernaemontana pandacaqui	797
+species	Christella dentata	729
+species	Isachne globosa	1655
+species	Calophyllum ferrugineum	957
+species	Coelogyne rochussenii	694
+species	Bouea oppositifolia	1073
+species	Thottea grandiflora	922
+species	Linostoma pauciflorum	1297
+species	Dendrobium grande	892
+species	Combretum tetralophum	815
+species	Rapanea porteriana	1102
+species	Syzygium muelleri	643
+species	Dendrobium singaporense	918
+species	Calophyllum wallichianum	1637
+species	Garcinia atroviridis	723
+species	Drepananthus ramuliflorus	1154
+species	Laportea interrupta	1501
+species	Glycosmis chlorosperma	1118
+species	Guioa pubescens	1337
+species	Ampelocissus polystachya	1047
+species	Urophyllum streptopodium	1148
+species	Stachyphrynium latifolium	1688
+species	Macaranga conifera	1626
+species	Strombosia javanica	1032
+species	Ficus superba	659
+species	Dracaena umbratica	1180
+species	Tectaria singaporiana	539
+species	Pandanus houlletii	1366
+species	Tabernaemontana pauciflora	928
+species	Aristolochia jackii	1264
+species	Parishia insignis	1577
+species	Adenanthera malayana	1488
+species	Syngramma alismifolia	1397
+species	Heritiera elata	604
+species	Tinomiscium petiolare	1434
+species	Erythroxylum cuneatum	1311
+species	Micrococca mercurialis	1475
+species	Plukenetia corniculata	1425
+species	Canthium molle	1686
+species	Calophyllum teysmannii	787
+species	Lindera lucida	1172
+species	Dracaena cantleyi	1595
+species	Lasianthus attenuatus	1610
+species	Grewia laevigata	1441
+species	Canthium confertum	1161
+species	Bulbophyllum medusae	1094
+species	Macaranga recurvata	1354
+species	Memecylon lilacinum	1209
+species	Durio singaporensis	1163
+species	Hypolytrum nemorum	1371
+species	Mussaendopsis beccariana	1347
+species	Dalbergia velutina	789
+species	Streblus elongatus	1017
+species	Bulbophyllum pulchellum	1351
+species	Hornstedtia leonurus	1582
+species	Friesodielsia latifolia	1152
+species	Croton caudatus	1141
+species	Hoya coriacea	603
+species	Porterandia anisophylla	1018
+species	Sterculia stipulata	584
+species	Dalbergia junghuhnii	1140
+species	Utricularia minutissima	1222
+species	Gaertnera grisea	1049
+species	Aspidopterys concava	703
+species	Memecylon cantleyi	713
+species	Coelogyne mayeriana	1188
+species	Litsea grandis	1138
+species	Timonius wallichianus	709
+species	Entada spiralis	669
+species	Mapania cuspidata	1567
+species	Fissistigma fulgens	1139
+species	Hoya campanulata	719
+species	Pandanus monotheca	1070
+species	Planchonella obovata	1117
+species	Ixonanthes reticulata	1437
+species	Leea angulata	764
+species	Gymnostoma nobile	176
+species	Garcinia cymosa	888
+species	Terminalia calamansanai	690
+species	Gastrodia javanica	1565
+species	Tetracera fagifolia	1134
+species	Litsea firma	1031
+species	Artabotrys suaveolens	708
+species	Agelaea macrophylla	688
+species	Robiquetia spathulata	1336
+species	Halodule pinifolia	1511
+species	Ardisia colorata	750
+species	Pternandra echinata	698
+species	Iodes ovalis	1206
+species	Bulbophyllum makoyanum	1345
+species	Cryptocoryne griffithii	845
+species	Dipterocarpus caudatus	912
+species	Smilax megacarpa	1539
+species	Phaeanthus ophthalmicus	1208
+species	Aporosa benthamiana	1022
+species	Chonemorpha fragrans	1269
+species	Santiria griffithii	1213
+species	Viscum ovalifolium	1647
+species	Kunstleria ridleyi	1470
+species	Freycinetia sumatrana	1512
+species	Ficus globosa	700
+species	Dillenia excelsa	792
+species	Oxyceros bispinosus	1144
+species	Olea brachiata	1203
+species	Rhodamnia cinerea	1006
+species	Pomatocalpa diffusum	1516
+species	Anaxagorea javanica	1122
+species	Amischotolype gracilis	1612
+species	Pternandra coerulescens	1038
+species	Ficus xylophylla	869
+species	Poikilospermum suaveolens	1119
+species	Prunus polystachya	1008
+species	Rinorea anguifera	1466
+species	Taxillus chinensis	1352
+species	Pentaphragma ellipticum	915
+species	Rourea mimosoides	1153
+species	Willughbeia tenuiflora	1588
+species	Alpinia aquatica	820
+species	Artabotrys maingayi	1178
+species	Callostylis pulchella	933
+species	Shorea curtisii	1576
+species	Erythropalum scandens	1181
+species	Antidesma velutinosum	757
+species	Bulbophyllum lobbii	1632
+species	Castanopsis lucida	1179
+species	Ficus glandulifera	1182
+species	Lithocarpus conocarpus	1184
+species	Leuconotis griffithii	1183
+species	Aporosa frutescens	1268
+species	Baccaurea minor	1151
+species	Elateriospermum tapos	740
+species	Breynia racemosa	1517
+species	Uncaria longiflora	826
+species	Strychnos ignatii	1146
+species	Ilex cymosa	1330
+species	Christella subpubescens	986
+species	Litsea elliptica	934
+species	Strombosia ceylanica	1135
+species	Neolitsea zeylanica	597
+species	Macaranga hypoleuca	978
+species	Tetrastigma leucostaphylum	1130
+species	Litsea erectinervia	1205
+species	Dendrobium pachyphyllum	1096
+species	Artocarpus rigidus	785
+species	Spathoglottis kimballiana	1502
+species	Telosma cordata	1445
+species	Scurrula ferruginea	1314
+species	Adenia macrophylla	963
+species	Macaranga heynei	861
+species	Ziziphus elegans	1052
+species	Psychotria helferiana	1430
+species	Psychotria ovoidea	1432
+species	Urophyllum arboreum	1675
+species	Sterculia macrophylla	1252
+species	Bulbophyllum maxillare	1245
+species	Sterculia parviflora	721
+species	Carphalea kirondron	837
+species	Phalaenopsis cornu-cervi	776
+species	Artocarpus dadah	1258
+species	Selaginella intermedia	966
+species	Dracaena porteri	1069
+species	Ophiorrhiza singaporensis	1304
+species	Molineria latifolia	829
+species	Ficus consociata	1575
+species	Oxyceros longiflorus	656
+species	Dracaena maingayi	844
+species	Uvaria grandiflora	638
+species	Combretum sundaicum	1404
+species	Nothaphoebe umbelliflora	1227
+species	Struchium sparganophorum	1129
+species	Ischaemum ciliare	1455
+species	Pseuderanthemum laxiflorum	10
+species	Sindora echinocalyx	985
+species	Rourea minor	1048
+species	Dioscorea pyrifolia	1579
+species	Calophyllum rufigemmatum	1339
+species	Philodendron lacerum	1625
+species	Oldenlandia affinis	1243
+species	Uncaria lanosa	1133
+species	Magnolia villosa	1155
+species	Ficus sagittata	595
+species	Rothmannia macrophylla	1055
+species	Hornstedtia scyphifera	1523
+species	Ampelocissus gracilis	1596
+species	Bulbophyllum membranaceum	1344
+species	Mitrella kentii	1435
+species	Typhonium roxburghii	1023
+species	Torenia polygonoides	80
+species	Eriocaulon truncatum	759
+species	Piper porphyrophyllum	1334
+species	Amydrium medium	1509
+species	Cuscuta australis	890
+species	Ruspolia seticalyx	1585
+species	Nephrolepis acutifolia	602
+species	Fimbristylis acuminata	1499
+species	Scyphiphora hydrophylacea	1013
+species	Dissochaeta divaricata	1614
+species	Lygodium salicifolium	1086
+species	Erycibe tomentosa	681
+species	Vanilla griffithii	1063
+species	Xylopia ferruginea	1207
+species	Buchanania arborescens	1039
+species	Knema hookeriana	974
+species	Ficus villosa	916
+species	Epipremnum giganteum	1060
+species	Xylocarpus moluccensis	1590
+species	Knema globularia	959
+species	Pancratium zeylanicum	617
+species	Labisia pumila	901
+species	Tephrosia noctiflora	1098
+species	Mucuna bennettii	968
+species	Ixora pendula	1700
+species	Lasia spinosa	994
+species	Fimbristylis tristachya	1659
+species	Bulbophyllum purpurascens	1095
+species	Hoya latifolia	687
+species	Glochidion littorale	1225
+species	Polyalthia cauliflora	1211
+species	Litsea accedens	1415
+species	Polyscias diversifolia	671
+species	Monocostus uniflorus	718
+species	Cyrtococcum patens	1128
+species	Gmelina asiatica	1580
+species	Typhonium trilobatum	831
+species	Gironniera nervosa	786
+species	Galearia fulva	1420
+species	Nephelium ramboutan-ake	1274
+species	Timonius flavescens	1142
+species	Ficus caulocarpa	1607
+species	Sterculia cordata	975
+species	Cleistanthus sumatranus	875
+species	Hoya diversifolia	1011
+species	Eucalyptus alba	806
+species	Smilax myosotiflora	1652
+species	Uncaria acida	1419
+species	Selaginella erythropus	605
+species	Cnestis palala	988
+species	Shorea sumatrana	1658
+species	Dissochaeta gracilis	1396
+species	Allophylus cobbe	647
+species	Merremia hederacea	1150
+species	Pandanus atrocarpus	1701
+species	Davallia solida	948
+species	Uvaria hirsuta	1403
+species	Clerodendrum deflexum	828
+species	Taenitis blechnoides	936
+species	Dendrobium leonis	878
+species	Archidendron clypearia	904
+species	Diospyros buxifolia	956
+species	Salomonia cantoniensis	1381
+species	Dendrophthoe pentandra	865
+species	Parsonsia alboflavescens	995
+species	Burmannia coelestis	1378
+species	Diospyros malabarica	900
+species	Goniophlebium percussum	1007
+species	Gardenia tubifera	522
+species	Dendrobium secundum	879
+species	Pteris semipinnata	1046
+species	Pleocnemia irregularis	990
+species	Licania splendens	1132
+species	Ixora congesta	632
+species	Ampelocissus elegans	1355
+species	Canarium pilosum	1028
+species	Gahnia tristis	1677
+species	Triadica cochinchinensis	1456
+species	Cyperus compactus	1195
+species	Gynochthodes coriacea	1487
+species	Philydrum lanuginosum	1483
+species	Blechnum gibbum	1500
+species	Guioa pleuropteris	964
+species	Coscinium fenestratum	1356
+species	Rotheca serrata	620
+species	Uraria crinita	606
+species	Elaeocarpus ferrugineus	935
+species	Neptunia oleracea	883
+species	Tectaria barberi	1212
+species	Ficus kurzii	891
+species	Garcinia hombroniana	1221
+species	Uncaria cordata	674
+species	Platycerium coronarium	663
+species	Vitex pinnata	583
+species	Ipomoea pes-tigridis	1474
+species	Bridelia stipularis	1574
+species	Phyllanthus myrtifolius	1448
+species	Acriopsis liliifolia	1298
+species	Gymnanthemum amygdalinum	1331
+species	Syzygium antisepticum	1216
+species	Ziziphus jujuba	543
+species	Eulophia graminea	581
+species	Ficus punctata	673
+species	Lophatherum gracile	1622
+species	Pemphis acidula	942
+species	Macaranga hullettii	1072
+species	Embelia ribes	1338
+species	Macaranga bancana	692
+species	Gynotroches axillaris	1510
+species	Alstonia spathulata	1312
+species	Strophanthus caudatus	699
+species	Elaeocarpus petiolatus	1009
+species	Mussaenda frondosa	683
+species	Synsepalum dulcificum	1256
+species	Delosperma echinatum	1544
+species	Vallaris glabra	1284
+species	Ormosia pinnata	570
+species	Viola banksii	1549
+species	Horsfieldia polyspherula	1664
+species	Miconia capitellata	1497
+species	Nymphaea rubra	546
+species	Cenchrus polystachios	1174
+species	Nymphaea pubescens	744
+species	Vitis ficifolia	1503
+species	Glochidion obscurum	1508
+species	Rothmannia longiflora	1446
+species	Dasymaschalon dasymaschalum	1650
+species	Cenchrus longisetus	1246
+species	Gonatopus boivinii	1507
+species	Gardenia sootepensis	1313
+species	Carissa carandas	724
+species	Dorstenia bahiensis	1367
+species	Sterculia coccinea	666
+species	Ficus pseudopalma	1190
+species	Ixora hookeri	841
+species	Pachypodium bispinosum	1543
+species	Medinilla speciosa	1608
+species	Stictocardia beraviensis	639
+species	Momordica cochinchinensis	855
+species	Cenchrus setaceus	327
+species	Phyllodium longipes	608
+species	Halymenia durvillei	749
+species	Lindernia rotundifolia	862
+species	Pseuderanthemum graciliflorum	62
+species	Avrainvillea erecta	1370
+species	Smilax bracteata	1277
+species	Rinorea angustifolia	1294
+species	Mallotus japonicus	1110
+species	Dischidia oiantha	515
+species	Callicarpa formosana	970
+species	Dillenia grandifolia	1598
+species	Terminalia subspathulata	939
+species	Sterculia oblongata	1602
+species	Clerodendrum calamitosum	93
+species	Asplenium longissimum	955
+species	Alternanthera sissoo	1550
+species	Phaleria clerodendron	502
+species	Cyperus brevifolius	1065
+species	Egeria najas	1615
+species	Radermachera yunnanensis	751
+species	Dictyoneura obtusa	71
+species	Cyperus mindorensis	408
+species	Callianthe megapotamica	388
+species	Spermacoce pusilla	1099
+species	Dendrobium cruentum	1375
+species	Kopsia pauciflora	716
+species	Callicarpa nudiflora	631
+species	Barringtonia procera	1477
+species	Plerandra elegantissima	1486
+species	Haplopteris ensiformis	1685
+species	Monodora myristica	1691
+species	Campnosperma auriculatum	775
+species	Dillenia obovata	741
+species	Heterotis rotundifolia	265
+species	Hoya flagellata	702
+species	Silene fulgens	1551
+species	Boergesenia forbesii	1412
+species	Rotheca microphylla	1416
+species	Aloe greatheadii	1542
+species	Turpinia indochinensis	1409
+species	Sterculia monosperma	1067
+species	Gomphrena celosioides	1104
+species	Curio talinoides	1540
+species	Dolichandra unguis-cati	1291
+species	Mesembryanthemum cordifolium	979
+species	Karomia speciosa	1340
+species	Lepidagathis incurva	1111
+species	Strobilanthes hamiltoniana	98
+species	Blumea paniculata	1646
+species	Rhynchospora rubra	1560
+species	Dysoxylum cauliflorum	1054
+species	Agrostistachys indica	1026
+species	Pteleocarpa lamponga	925
+species	Costus phyllocephalus	795
+species	Elaeocarpus mastersii	1010
+species	Pseuderanthemum andersonii	706
+species	Vigna reflexopilosa	743
+species	Malaisia scandens	1374
+species	Wollastonia biflora	338
+species	Emilia praetermissa	1360
+species	Syzygium acuminatissimum	1564
+species	Fatoua pilosa	902
+species	Nephelium mutabile	1044
+species	Hellenia speciosa	292
+species	Causonis japonica	1698
+species	Varronia cylindrostachya	499
+species	Caulerpa chemnitzia	689
+species	Manihot carthagenensis	824
+species	Exallage auricularia	835
+species	Cyperus aromaticus	491
+species	Sporobolus diandrus	1639
+species	Volkameria inermis	303
+species	Eriocaulon willdenovianum	816
+species	Sterculia megistophylla	1653
+species	Murdannia gigantea	997
+species	Aeschynanthus pulcher	481
+species	Ruellia blechum	555
+species	Strobilanthes auriculata	1528
+species	Macrosolen retusus	1253
+species	Scindapsus treubii	852
+species	Ficus apiocarpa	1003
+species	Aristolochia pothieri	851
+species	Dracaena sanderiana	991
+species	Trichomanes javanicum	1335
+species	Marantochloa purpurea	1327
+species	Zingiber ottensii	856
+species	Passiflora quadriglandulosa	1562
+species	Morella esculenta	1628
+species	Adenia cordifolia	1382
+species	Guilandina bonduc	1422
+species	Torenia crustacea	290
+species	Indorouchera griffithiana	1450
+species	Libidibia ferrea	798
+species	Lygodium circinnatum	938
+species	Ficus maclellandii	1321
+species	Strobilanthes schomburgkii	1624
+species	Asplenium nitidum	1578
+species	Boschia griffithii	1519
+species	Ampelocissus spicifer	1136
+species	Maclurodendron porteri	1584
+species	Causonis trifolia	754
+species	Asystasia nemorum	446
+species	Goeppertia insignis	1678
+species	Breynia androgyna	564
+species	Amblovenatum opulentum	952
+species	Piper pedicellosum	983
+species	Strobilanthes crispa	1156
+species	Musa haekkinenii	882
+species	Bulbophyllum fascinator	1107
+species	Sonerila obliqua	1521
+species	Bulbophyllum lepidum	1325
+species	Leuenbergeria bleo	874
+species	Bignonia corymbosa	435
+species	Trichomanes obscurum	1618
+species	Strobilanthes reptans	400
+species	Phytocrene bracteata	1020
+species	Cyclea laxiflora	1170
+species	Limacia scandens	1042
+species	Tinospora macrocarpa	1414
+species	Vincetoxicum indicum	594
+species	Parishia maingayi	1524
+species	Willughbeia coriacea	1522
+species	Senegalia kekapur	1603
+species	Dioscorea kingii	1672
+species	Xanthophyllum flavescens	1391
+species	Utania volubilis	1674
+species	Tapeinochilos densus	241
+species	Utania nervosa	999
+species	Cyrtophyllum fragrans	1458
+species	Utania racemosa	1353
+species	Mitrephora maingayi	1254
+species	Monophyllaea horsfieldii	1025
+species	Procris repens	1103
+species	Elaeocarpus pedunculatus	1481
+species	Kleinia grandiflora	1289
+species	Mesua grandis	1242
+species	Kayea ferruginea	1666
+species	Cecropia polystachya	1341
+species	Bonnaya sanpabloensis	821
+species	Millettia pinnata	567
+species	Tarlmounia elliptica	873
+species	Blechnum finlaysonianum	976
+species	Eriocapitella hupehensis	909
+species	Leptopetalum biflorum	1307
+species	Ardisia sanguinolenta	1051
+species	Decalobanthus peltatus	850
+species	Trimezia coerulea	1665
+species	Trimezia gracilis	1319
+species	Hanguana neglecta	765
+species	Hanguana rubinea	1171
+species	Hanguana triangulata	1279
+species	Pontederia hastata	748
+species	Pontederia crassipes	192
+species	Pontederia vaginalis	953
+species	Pontederia azurea	600
+species	Coleus amboinicus	126
+species	Norrisia major	1694
+species	Hygrophila phlomoides	1696
+species	Thaumatophyllum xanadu	1449
+species	Distimake tuberosus	1229
+species	Bonnaya antipoda	1157
+species	Luffa aegyptiaca	165
+species	Monoon longifolium	231
+species	Rourea fulgens	1569
+species	Duperrea pavettifolia	51
+species	Goeppertia marantifolia	100
+species	Elaeocarpus polystachyus	1050
+species	Wikstroemia ridleyi	1012
+species	Curio ficoides	1545
+species	Cynanchum pulchellum	1369
+species	Ulva ohnoi	1643
+species	Benstonea affinis	1504
+species	Benstonea atrocarpa	1609
+species	Pterospermum javanicum	1444
+species	Stachytarpheta indica	1250
+species	Cenchrus alopecuroides	316
+species	Selenicereus undatus	998
+species	Radermachera quadripinnata	1433
+species	Phanera semibifida	487
+species	Mezoneuron sumatranum	1296
+species	Suessenguthia multisetosa	419
+species	Bidens alba	758
+species	Agrostistachys sessilifolia	1605
+species	Ploiarium elegans	1394
+species	Whitfordiodendron erianthum	78
+species	Pleroma granulosum	1563
+species	Goeppertia loeseneri	609
+species	Trichosanthes scabra	1109
+species	Adinobotrys atropurpureus	232
+species	Wisteriopsis reticulata	1062
+species	Trichosanthes wawraei	1145
+species	Ventilago maingayi	1185
+species	Goeppertia makoyana	1557
+species	Musella lasiocarpa	101
+species	Carallia suffruticosa	1389
+species	Phanera kockiana	1001
+species	Phanera bidentata	586
+species	Goeppertia roseopicta	1271
+species	Vincetoxicum flexuosum	1320
+species	Neustanthus phaseoloides	727
+species	Pleroma urvilleanum	840
+species	Zephyranthes purpurea	317
+species	Heptapleurum actinophyllum	386
+species	Heptapleurum arboricola	1123
+species	Falcataria falcata	1033
+species	Zingiber puberulum	1292
+species	Bonnaya ruelloides	1485
+species	Schumannianthus benthamianus	1489
+species	Grona triflora	637
+species	Vandellia diffusa	827
+species	Grona heterophylla	530
+species	Coleus monostachyus	366
+species	Grona heterocarpos	1649
+species	Ochna kirkii	1495
+species	Bulbophyllum thiurum	1348
+species	Miconia crenata	237
+species	Scindapsus perakensis	1687
+species	Ravenala madagascariensis	1526
+species	Miconia dependens	280
+species	Actinostachys digitata	1669
+species	Scindapsus lucens	1683
+species	Synostemon bacciformis	1388
+species	Clerodendrum disparifolium	1464
+species	Breynia spatulifolia	128
+species	Bruguiera gymnorhiza	21
+species	Adina eurhyncha	937
+species	Pseuduvaria luzonensis	1324
+species	Pseuderanthemum maculatum	982
+species	Dicliptera bivalvis	1287
+species	Dicliptera roxburghiana	377
+species	Scleromitrion diffusum	1241
+species	Piper lanatum	1491
+species	Sphaerostephanos polycarpos	1660
+species	Grypothrix triphylla	992
+species	Cladophoropsis vaucheriiformis	1689
+species	Ouret lanata	1616
+species	Rourea asplenifolia	1137
+species	Emilia javanica	1000
+species	Sphaeropteris squamulata	1398
+species	Alsophila latebrosa	732
+species	Canthiumera robusta	1573
+species	Gynochthodes umbellata	587
+species	Endospermum peltatum	1570
+species	Tacca cristata	1315
+species	Psydrax approximatus	1621
+species	Morinda elliptica	1617
+species	Canthium malayense	1586
+species	Piper baccatum	1431
+species	Psychotria polycarpa	1599
+species	Scaphochlamys breviscapa	1518
+species	Ammannia crassicaulis	996
+species	Pigea enneasperma	989
+species	Ulva tepida	1644
+species	Halymenia duchassaingii	1308
+species	Passiflora vesicaria	961
+species	Alpinia luteocarpa	1692
+species	Pittosporum ridleyi	1342
+species	Polyscias alternifolia	1056
+species	Matourea azurea	220
+species	Singaporandia macrophylla	1676
+species	Elaeocarpus hygrophilus	1231
+species	Scleromitrion verticillatum	1329
+species	Geophila herbacea	1680
+species	Dicliptera tinctoria	1538
+class	Lycopodiopsida	4
+class	Liliopsida	2
+class	Magnoliopsida	1
+class	Bryopsida	9
+class	Florideophyceae	8
+class	Ulvophyceae	7
+class	Pinopsida	5
+class	Polypodiopsida	3
+class	Gnetopsida	6
+kingdom	Plantae	1
+phylum	Chlorophyta	2
+phylum	Rhodophyta	3
+phylum	Tracheophyta	1
+phylum	Bryophyta	4
