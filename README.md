@@ -9,16 +9,16 @@ cd ~/github
 
 - Clone the repo into the data directory:
 ```bash
-git clone https://github.com/xprize-msu/inat-plant-train-infer.git
-cd inat-plant-train-infer
+git clone git@github.com:ShiuLab/plant_image_classify.git
+cd plant_image_classify
 ```
 
 ## Setup environment
 
 - Create a `conda` environment:
 ```bash
-conda create --name xprize python=3.9
-conda activate xprize
+conda create --name pic python=3.9
+conda activate pic
 ```
 
 - Use the `requirement.txt` file to install required packages:
@@ -34,7 +34,7 @@ python ./efficient_inference_plant.py -h
 
 ## Preprocessing
 
-The images should be preprocessed, split into training, validation, and testing folders, and augmented. These are done with codes in [the inat-data-aug repo](https://github.com/xprize-msu/inat-data-aug).
+The images should be preprocessed, split into training, validation, and testing folders, and augmented. 
 
 ## Number of classes
 
